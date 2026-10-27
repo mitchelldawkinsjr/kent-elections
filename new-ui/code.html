@@ -1,0 +1,1351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Official Sample Ballot - General Election</title>
+  <style>
+    /* Reset & Base System */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --ink: #111111;
+      --paper: #fdfdfc;
+      --paper-line: #000000;
+      --border-gray: #4a4a4a;
+      --light-gray: #e6e6e6;
+      --header-bg: #4a4d52;
+      --header-text: #ffffff;
+      --sub-header-bg: #d9d9d9;
+      --accent-blue: #1d4ed8;
+      --focus-ring: #2563eb;
+      --warning-bg: #fffbeb;
+      --warning-border: #b45309;
+      --font-serif: "Times New Roman", Times, Georgia, "Liberation Serif", serif;
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    body {
+      background-color: #64748b;
+      color: var(--ink);
+      font-family: var(--font-sans);
+      line-height: 1.25;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    /* Top interactive utility bar for web viewer */
+    .app-toolbar {
+      width: 100%;
+      max-width: 1100px;
+      background: #1e293b;
+      color: #fff;
+      padding: 12px 18px;
+      border-radius: 6px;
+      margin-bottom: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    }
+    .toolbar-info {
+      font-size: 13px;
+    }
+    .toolbar-info h1 {
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+    .toolbar-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    .btn {
+      padding: 8px 16px;
+      font-size: 13px;
+      font-weight: 600;
+      border: 1px solid transparent;
+      border-radius: 4px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+      font-family: var(--font-sans);
+    }
+    .btn-primary {
+      background: #2563eb;
+      color: white;
+    }
+    .btn-primary:hover {
+      background: #1d4ed8;
+    }
+    .btn-outline {
+      background: transparent;
+      border-color: #94a3b8;
+      color: #f1f5f9;
+    }
+    .btn-outline:hover {
+      background: #334155;
+    }
+    .btn-reset {
+      background: #dc2626;
+      color: white;
+    }
+    .btn-reset:hover {
+      background: #b91c1c;
+    }
+
+    /* Ballot Physical Paper Container */
+    .ballot-sheet {
+      width: 100%;
+      max-width: 1100px;
+      background: var(--paper);
+      border: 2px solid var(--paper-line);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+      padding: 14px 18px 24px 18px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Authentic Diagonal Security Watermark */
+    .security-watermark {
+      position: absolute;
+      top: 30%;
+      left: -15%;
+      width: 130%;
+      text-align: center;
+      font-size: 96px;
+      font-weight: 900;
+      letter-spacing: 20px;
+      color: rgba(0, 0, 0, 0.04);
+      transform: rotate(-32deg);
+      pointer-events: none;
+      user-select: none;
+      font-family: var(--font-sans);
+      z-index: 1;
+    }
+
+    /* Ballot Header & Instructions */
+    .ballot-header {
+      position: relative;
+      z-index: 2;
+      border-bottom: 2px solid var(--paper-line);
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      text-align: center;
+    }
+    .ballot-pretitle {
+      font-size: 11px;
+      font-weight: bold;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+    .ballot-title {
+      font-family: var(--font-serif);
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: 0.5px;
+      margin: 3px 0;
+      text-transform: uppercase;
+    }
+    .ballot-meta {
+      font-size: 12px;
+      font-weight: 600;
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 6px;
+    }
+    .voting-instructions {
+      background: #f4f4f4;
+      border: 1px solid #777;
+      padding: 6px 12px;
+      font-size: 11px;
+      line-height: 1.35;
+      text-align: left;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+    .inst-mark-sample {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-weight: 700;
+    }
+    .sample-box {
+      width: 16px;
+      height: 16px;
+      border: 2px solid #000;
+      background: #000;
+    }
+
+    /* Multi-column layout matching newspaper-like ballot */
+    .ballot-columns {
+      position: relative;
+      z-index: 2;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+      border: 1.5px solid var(--paper-line);
+      background: var(--paper);
+    }
+
+    .ballot-column {
+      border-right: 1.5px solid var(--paper-line);
+      display: flex;
+      flex-direction: column;
+    }
+    .ballot-column:last-child {
+      border-right: none;
+    }
+
+    /* Section & Contest Styling */
+    .section-banner {
+      background-color: var(--header-bg);
+      color: var(--header-text);
+      font-size: 14px;
+      font-weight: 800;
+      text-align: center;
+      padding: 4px 6px;
+      letter-spacing: 0.8px;
+      border-bottom: 1.5px solid var(--paper-line);
+      border-top: 1.5px solid var(--paper-line);
+      text-transform: uppercase;
+    }
+    .section-banner:first-child {
+      border-top: none;
+    }
+
+    .contest-block {
+      border-bottom: 1.5px solid var(--paper-line);
+      padding: 6px 8px 8px 8px;
+      background: #ffffff;
+      position: relative;
+    }
+    .contest-block:last-child {
+      border-bottom: none;
+    }
+
+    .contest-header {
+      text-align: center;
+      margin-bottom: 6px;
+    }
+    .contest-category {
+      background-color: var(--sub-header-bg);
+      font-size: 11.5px;
+      font-weight: 800;
+      padding: 2px 4px;
+      border-top: 1px solid #999;
+      border-bottom: 1px solid #999;
+      margin-bottom: 3px;
+      text-transform: uppercase;
+    }
+    .contest-title {
+      font-family: var(--font-serif);
+      font-size: 13.5px;
+      font-weight: 900;
+      line-height: 1.15;
+    }
+    .contest-term {
+      font-size: 10px;
+      font-weight: 700;
+      color: #333;
+    }
+    .vote-rule {
+      font-size: 10.5px;
+      font-style: italic;
+      color: #222;
+      margin: 2px 0 4px 0;
+    }
+
+    .contest-tools {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 4px;
+    }
+    .btn-clear-contest {
+      background: none;
+      border: none;
+      color: #555;
+      font-size: 10px;
+      text-decoration: underline;
+      cursor: pointer;
+      padding: 0 4px;
+    }
+    .btn-clear-contest:hover {
+      color: #b91c1c;
+    }
+
+    /* Option Row (Checkbox / Choice) */
+    .option-list {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+    .option-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      padding: 4px 4px;
+      cursor: pointer;
+      user-select: none;
+      border-radius: 2px;
+      transition: background-color 0.1s ease;
+    }
+    .option-row:hover {
+      background-color: #f1f5f9;
+    }
+    .option-row.selected {
+      background-color: #fef08a33;
+    }
+
+    /* Custom Ballot Outlined Square Box */
+    .ballot-checkbox {
+      position: relative;
+      width: 17px;
+      height: 17px;
+      min-width: 17px;
+      margin-top: 1px;
+      border: 2px solid #000000;
+      background-color: #ffffff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.1s ease;
+    }
+    .option-row input[type="checkbox"],
+    .option-row input[type="radio"] {
+      position: absolute;
+      opacity: 0;
+      width: 0;
+      height: 0;
+      pointer-events: none;
+    }
+    .option-row input:focus-visible + .ballot-checkbox {
+      outline: 2px solid var(--focus-ring);
+      outline-offset: 2px;
+    }
+
+    /* Checked / Filled-in Square representation */
+    .option-row input:checked + .ballot-checkbox {
+      background-color: #000000;
+    }
+    .option-row input:checked + .ballot-checkbox::after {
+      content: "";
+      width: 7px;
+      height: 7px;
+      background-color: #000000;
+    }
+
+    .option-details {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .candidate-name {
+      font-size: 12.5px;
+      font-weight: 800;
+      color: #000;
+      line-height: 1.15;
+    }
+    .candidate-party {
+      font-size: 10px;
+      color: #333;
+      font-weight: 500;
+    }
+
+    /* Dashed Separators between choices like in sample ballot */
+    .dashed-separator {
+      border-top: 1px dashed #777;
+      margin: 4px 0 2px 26px;
+    }
+
+    /* Write-in Option */
+    .write-in-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      width: 100%;
+    }
+    .write-in-label {
+      font-size: 11px;
+      font-style: italic;
+      white-space: nowrap;
+    }
+    .write-in-input {
+      flex: 1;
+      border: none;
+      border-bottom: 1.5px solid #000;
+      background: transparent;
+      font-family: inherit;
+      font-size: 11px;
+      padding: 1px 4px;
+      outline: none;
+    }
+    .write-in-input:focus {
+      border-bottom-color: var(--focus-ring);
+      background-color: #fffde7;
+    }
+
+    /* Proposition Text and Summary */
+    .proposal-body {
+      font-size: 10.5px;
+      line-height: 1.3;
+      margin-bottom: 8px;
+      text-align: justify;
+    }
+    .proposal-summary {
+      margin-top: 4px;
+      padding-left: 10px;
+      font-size: 10px;
+      color: #222;
+      border-left: 2px solid #ccc;
+    }
+    .proposal-prompt {
+      font-size: 11px;
+      font-weight: bold;
+      margin: 6px 0 4px;
+    }
+
+    /* Review Modal / Drawer */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.75);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      backdrop-filter: blur(2px);
+    }
+    .modal-overlay.active {
+      display: flex;
+    }
+    .modal-card {
+      background: #ffffff;
+      width: 100%;
+      max-width: 650px;
+      max-height: 90vh;
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.4);
+      overflow: hidden;
+    }
+    .modal-header {
+      padding: 14px 18px;
+      background: #0f172a;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .modal-header h2 {
+      font-size: 17px;
+      font-weight: 700;
+    }
+    .modal-close {
+      background: none;
+      border: none;
+      color: #cbd5e1;
+      font-size: 20px;
+      cursor: pointer;
+    }
+    .modal-content {
+      padding: 16px 18px;
+      overflow-y: auto;
+      font-size: 13px;
+    }
+    .review-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .stat-badge {
+      padding: 8px 12px;
+      border-radius: 6px;
+      border: 1px solid #cbd5e1;
+      background: #f8fafc;
+    }
+    .stat-badge.unanswered {
+      background: var(--warning-bg);
+      border-color: var(--warning-border);
+      color: #78350f;
+    }
+    .review-contest-item {
+      padding: 10px;
+      border-bottom: 1px solid #e2e8f0;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+    .review-contest-title {
+      font-weight: 700;
+      color: #0f172a;
+    }
+    .review-contest-selection {
+      color: #2563eb;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    .review-contest-empty {
+      color: #dc2626;
+      font-weight: 600;
+      font-style: italic;
+      margin-top: 2px;
+    }
+    .modal-footer {
+      padding: 12px 18px;
+      border-top: 1px solid #e2e8f0;
+      background: #f8fafc;
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    /* Confirmation Banner */
+    .confirmation-banner {
+      display: none;
+      margin-top: 14px;
+      padding: 14px;
+      background: #ecfdf5;
+      border: 2px solid #059669;
+      border-radius: 6px;
+      color: #065f46;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    /* Instructions Modal / Local Running Info */
+    .instructions-card {
+      width: 100%;
+      max-width: 1100px;
+      margin-top: 16px;
+      background: #1e293b;
+      color: #e2e8f0;
+      padding: 14px 18px;
+      border-radius: 6px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .instructions-card code {
+      background: #0f172a;
+      color: #38bdf8;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+
+    /* Responsive single-column layout on mobile */
+    @media (max-width: 820px) {
+      body {
+        padding: 8px;
+      }
+      .app-toolbar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .toolbar-actions {
+        width: 100%;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+      }
+      .ballot-columns {
+        grid-template-columns: 1fr;
+      }
+      .ballot-column {
+        border-right: none;
+        border-bottom: 2px solid var(--paper-line);
+      }
+      .ballot-column:last-child {
+        border-bottom: none;
+      }
+      .security-watermark {
+        font-size: 54px;
+        letter-spacing: 8px;
+      }
+    }
+
+    /* Print Styles: Paper Ballot Replication */
+    @media print {
+      body {
+        background: white !important;
+        padding: 0 !important;
+        color: black !important;
+      }
+      .app-toolbar,
+      .instructions-card,
+      .modal-overlay,
+      .btn-clear-contest,
+      .confirmation-banner {
+        display: none !important;
+      }
+      .ballot-sheet {
+        border: 2px solid #000 !important;
+        box-shadow: none !important;
+        max-width: 100% !important;
+        padding: 6mm !important;
+      }
+      .ballot-columns {
+        grid-template-columns: repeat(3, 1fr) !important;
+      }
+      .contest-block {
+        break-inside: avoid;
+        page-break-inside: avoid;
+      }
+      .security-watermark {
+        color: rgba(0, 0, 0, 0.08) !important;
+      }
+      .option-row input:checked + .ballot-checkbox {
+        background-color: #000 !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- App Controls Toolbar -->
+  <div class="app-toolbar" role="region" aria-label="Ballot navigation bar">
+    <div class="toolbar-info">
+      <h1>Official General Election Ballot</h1>
+      <span>Michigan Sample Precinct 04 &bull; Oakland County &bull; November 8</span>
+    </div>
+    <div class="toolbar-actions">
+      <button class="btn btn-outline" id="btnPrint" type="button" title="Print this ballot">
+        🖨️ Print Ballot
+      </button>
+      <button class="btn btn-outline" id="btnReset" type="button" title="Reset all selections">
+        ↺ Reset
+      </button>
+      <button class="btn btn-primary" id="btnReview" type="button" title="Review ballot selections">
+        ✓ Review Ballot (<span id="selectedCountBadge">0</span> votes marked)
+      </button>
+    </div>
+  </div>
+
+  <!-- Physical Paper Ballot Sheet -->
+  <main class="ballot-sheet" id="ballotSheet">
+    <div class="security-watermark" aria-hidden="true">SAMPLE BALLOT</div>
+
+    <!-- Ballot Header & Formal Instructions -->
+    <header class="ballot-header">
+      <div class="ballot-pretitle">State of Michigan &bull; Official Ballot</div>
+      <h1 class="ballot-title">General Election &bull; November 8, 2022</h1>
+      <div class="ballot-meta">
+        <span><strong>County:</strong> Oakland</span>
+        <span><strong>Township:</strong> Bloomfield Twp, Precinct 4</span>
+        <span><strong>School District:</strong> Bloomfield Hills Schools</span>
+      </div>
+
+      <div class="voting-instructions" role="note">
+        <div class="inst-mark-sample">
+          <span>TO VOTE:</span>
+          <div class="sample-box"></div>
+        </div>
+        <div>
+          Completely darken the square next to your choice like shown. Use a black or blue pen.
+          Do not vote for more candidates than the number indicated for each office.
+          To vote for a qualified write-in candidate, write the person's name on the blank line provided and darken the square.
+        </div>
+      </div>
+    </header>
+
+    <!-- 3-Column Newspaper Ballot Grid Render Target -->
+    <div class="ballot-columns" id="ballotColumnsContainer" role="form" aria-label="Ballot Contest Columns">
+      <!-- Generated dynamically from clean ballot data structure -->
+    </div>
+
+    <!-- Local Demo Confirmation Message -->
+    <div id="confirmationBanner" class="confirmation-banner" role="status" aria-live="polite">
+      <h3>✓ Demo Ballot Submission Confirmed</h3>
+      <p>Your local choices have been successfully confirmed for this interactive demo. No votes are stored or transmitted.</p>
+    </div>
+  </main>
+
+  <!-- Review Modal -->
+  <div class="modal-overlay" id="reviewModal" role="dialog" aria-modal="true" aria-labelledby="reviewTitle">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 id="reviewTitle">Review Your Ballot Selections</h2>
+        <button class="modal-close" id="btnCloseReview" aria-label="Close review dialog">&times;</button>
+      </div>
+      <div class="modal-content">
+        <div class="review-stats">
+          <div class="stat-badge" id="statAnswered">
+            <strong>Contests Completed:</strong> <span id="answeredCount">0</span>
+          </div>
+          <div class="stat-badge unanswered" id="statUnanswered">
+            <strong>Unanswered Contests:</strong> <span id="unansweredCount">0</span>
+          </div>
+        </div>
+        <p style="margin-bottom: 12px; font-size: 12px; color: #475569;">
+          Review your marked selections below. Unanswered contests are flagged. You may return to the ballot to edit your choices or proceed to submit this local demo.
+        </p>
+        <div id="reviewList">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-outline" id="btnReturnToBallot" type="button">Return to Ballot</button>
+        <button class="btn btn-primary" id="btnConfirmSubmit" type="button">Confirm &amp; Finalize Ballot</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Local Running & Developer Instructions Card -->
+  <section class="instructions-card">
+    <strong>Developer &amp; Testing Information:</strong>
+    <p>
+      This page is self-contained with pure HTML, CSS, and vanilla JS. Ballot content is stored in a clean editable JSON object (<code>BALLOT_DATA</code>).
+      To run locally: save this file as <code>index.html</code> and double-click or serve with <code>python3 -m http.server 8000</code>. Press <strong>Ctrl+P / Cmd+P</strong> to preview paper print mode.
+    </p>
+  </section>
+
+  <!-- Application Logic & Ballot Data Structure -->
+  <script>
+    /**
+     * BALLOT_DATA
+     * Modular, easily editable structure containing all ballot sections, contests,
+     * options, and proposition text mimicking Michigan General Election sample ballots.
+     */
+    const BALLOT_DATA = {
+      title: "General Election",
+      columns: [
+        // Column 1: Partisan & Executive State Contests
+        {
+          id: "col-1",
+          sections: [
+            {
+              id: "sec-partisan",
+              title: "Partisan Section",
+              contests: [
+                {
+                  id: "straight_party",
+                  title: "Straight Party Ticket",
+                  category: "Party",
+                  maxSelect: 1,
+                  options: [
+                    { id: "sp_dem", name: "Democratic Party", party: "" },
+                    { id: "sp_rep", name: "Republican Party", party: "" },
+                    { id: "sp_lib", name: "Libertarian Party", party: "" },
+                    { id: "sp_tax", name: "U.S. Taxpayers Party", party: "" },
+                    { id: "sp_wcp", name: "Working Class Party", party: "" },
+                    { id: "sp_grn", name: "Green Party", party: "" },
+                    { id: "sp_nlp", name: "Natural Law Party", party: "" }
+                  ],
+                  allowWriteIn: false
+                }
+              ]
+            },
+            {
+              id: "sec-state",
+              title: "State",
+              contests: [
+                {
+                  id: "gov_lt_gov",
+                  title: "Governor and Lieutenant Governor",
+                  category: "State Executive",
+                  maxSelect: 1,
+                  options: [
+                    { id: "gov_whitmer", name: "Gretchen Whitmer / Garlin D. Gilchrist II", party: "Democrat" },
+                    { id: "gov_dixon", name: "Tudor M. Dixon / Shane Hernandez", party: "Republican" },
+                    { id: "gov_buzuma", name: "Mary Buzuma / Brian Ellison", party: "Libertarian" },
+                    { id: "gov_brandenburg", name: "Donna Brandenburg / Mellissa Carone", party: "U.S. Taxpayers" },
+                    { id: "gov_hogan", name: "Kevin Hogan / Destiny Clayton", party: "Green" },
+                    { id: "gov_simpson", name: "Daryl M. Simpson / Doug Dern", party: "Natural Law" }
+                  ],
+                  allowWriteIn: true
+                },
+                {
+                  id: "sec_state",
+                  title: "Secretary of State",
+                  category: "State Executive",
+                  maxSelect: 1,
+                  options: [
+                    { id: "sos_benson", name: "Jocelyn Benson", party: "Democrat" },
+                    { id: "sos_karamo", name: "Kristina Elaine Karamo", party: "Republican" },
+                    { id: "sos_stempfle", name: "Gregory Scott Stempfle", party: "Libertarian" },
+                    { id: "sos_schwartz", name: "Christine C. Schwartz", party: "U.S. Taxpayers" },
+                    { id: "sos_hutchinson", name: "Larry James Hutchinson, Jr.", party: "Green" }
+                  ],
+                  allowWriteIn: true
+                }
+              ]
+            }
+          ]
+        },
+
+        // Column 2: Legislative, Universities, Nonpartisan Local
+        {
+          id: "col-2",
+          sections: [
+            {
+              id: "sec-legislative",
+              title: "Congressional & Legislative",
+              contests: [
+                {
+                  id: "senate_7",
+                  title: "State Senator 7th District",
+                  category: "Legislative",
+                  maxSelect: 1,
+                  options: [
+                    { id: "sen_moss", name: "Jeremy Moss", party: "Democrat" },
+                    { id: "sen_khederian", name: "Corinne Khederian", party: "Republican" }
+                  ],
+                  allowWriteIn: true
+                },
+                {
+                  id: "house_54",
+                  title: "Representative in State Legislature 54th District",
+                  category: "Legislative",
+                  maxSelect: 1,
+                  options: [
+                    { id: "rep_martini", name: "Shadia Martini", party: "Democrat" },
+                    { id: "rep_steele", name: "Donni Steele", party: "Republican" }
+                  ],
+                  allowWriteIn: true
+                }
+              ]
+            },
+            {
+              id: "sec-boards",
+              title: "State Boards & Higher Education",
+              contests: [
+                {
+                  id: "regent_um",
+                  title: "Regent of the University of Michigan",
+                  category: "Higher Education",
+                  maxSelect: 2,
+                  options: [
+                    { id: "reg_behm", name: "Mike Behm", party: "Democrat" },
+                    { id: "reg_white", name: "Kathy White", party: "Democrat" },
+                    { id: "reg_epstein", name: "Lena Epstein", party: "Republican" },
+                    { id: "reg_denno", name: "Dennis Denno", party: "Democrat" }
+                  ],
+                  allowWriteIn: true
+                }
+              ]
+            },
+            {
+              id: "sec-nonpartisan",
+              title: "Nonpartisan Section",
+              contests: [
+                {
+                  id: "comm_college",
+                  title: "Board of Trustees Member Oakland Community College",
+                  category: "Community College",
+                  maxSelect: 3,
+                  options: [
+                    { id: "cc_tobin", name: "Michael Tobin", party: "" },
+                    { id: "cc_bertolini", name: "Kathleen Anna Bertolini", party: "" },
+                    { id: "cc_callaghan", name: "Edward D. Callaghan", party: "" },
+                    { id: "cc_donovan", name: "Rick Donovan", party: "" },
+                    { id: "cc_duensing", name: "Alexander C. Duensing", party: "" },
+                    { id: "cc_jackson", name: "Pamela S. Jackson", party: "" },
+                    { id: "cc_simek", name: "Jeffrey Simek", party: "" }
+                  ],
+                  allowWriteIn: true
+                },
+                {
+                  id: "school_board",
+                  title: "Board Member Bloomfield Hills Schools",
+                  category: "Local School District",
+                  maxSelect: 4,
+                  options: [
+                    { id: "sb_haugen", name: "Nicholas Haugen", party: "" },
+                    { id: "sb_hill", name: "Meagan M. Hill", party: "" },
+                    { id: "sb_kolin", name: "Paul Kolin", party: "" },
+                    { id: "sb_ng", name: "Harris Ng", party: "" },
+                    { id: "sb_noble", name: "Carolyn Noble", party: "" },
+                    { id: "sb_wilson", name: "Lauren Wilson", party: "" }
+                  ],
+                  allowWriteIn: true
+                }
+              ]
+            }
+          ]
+        },
+
+        // Column 3: State & County Proposals / Measures
+        {
+          id: "col-3",
+          sections: [
+            {
+              id: "sec-proposals",
+              title: "Proposal Section",
+              contests: [
+                {
+                  id: "prop_22_1",
+                  title: "Proposal 22-1",
+                  category: "State Constitutional Amendment",
+                  body: "A proposal to amend the state constitution to require annual public financial disclosure reports by legislators and other state officers and change state legislator term limit to 12 total years in legislature.",
+                  summaryPoints: [
+                    "Require members of legislature, governor, lieutenant governor, secretary of state, and attorney general file annual public financial disclosure reports after 2023.",
+                    "Replace current term limits with a 12-year total limit in any combination between house and senate."
+                  ],
+                  promptText: "Should this proposal be adopted?",
+                  maxSelect: 1,
+                  isProposition: true,
+                  options: [
+                    { id: "prop1_yes", name: "Yes", party: "" },
+                    { id: "prop1_no", name: "No", party: "" }
+                  ],
+                  allowWriteIn: false
+                },
+                {
+                  id: "prop_22_2",
+                  title: "Proposal 22-2",
+                  category: "State Constitutional Amendment",
+                  body: "A proposal to amend the state constitution to add provisions regarding elections.",
+                  summaryPoints: [
+                    "Recognize fundamental right to vote without harassing conduct.",
+                    "Require military or overseas ballots be counted if postmarked by election day.",
+                    "Provide voter right to verify identity with photo ID or signed statement.",
+                    "Provide voter right to single application to vote absentee in all elections."
+                  ],
+                  promptText: "Should this proposal be adopted?",
+                  maxSelect: 1,
+                  isProposition: true,
+                  options: [
+                    { id: "prop2_yes", name: "Yes", party: "" },
+                    { id: "prop2_no", name: "No", party: "" }
+                  ],
+                  allowWriteIn: false
+                },
+                {
+                  id: "prop_22_3",
+                  title: "Proposal 22-3",
+                  category: "State Constitutional Amendment",
+                  body: "A proposal to amend the state constitution to establish new individual right to reproductive freedom, including right to make all decisions about pregnancy and abortion; allow state to regulate abortion in some cases; and forbid prosecution of individuals exercising established right.",
+                  summaryPoints: [
+                    "Establish new individual right to reproductive freedom.",
+                    "Allow state to regulate abortion after fetal viability.",
+                    "Forbid state discrimination in enforcement of this right."
+                  ],
+                  promptText: "Should this proposal be adopted?",
+                  maxSelect: 1,
+                  isProposition: true,
+                  options: [
+                    { id: "prop3_yes", name: "Yes", party: "" },
+                    { id: "prop3_no", name: "No", party: "" }
+                  ],
+                  allowWriteIn: false
+                },
+                {
+                  id: "oakland_millage",
+                  title: "Oakland County Public Transportation Millage",
+                  category: "County Proposition",
+                  body: "A proposal to authorize Oakland County to levy a millage for the purpose of funding public transportation services in Oakland County, including operating, maintaining, improving, and expanding transit services and routes.",
+                  summaryPoints: [
+                    "Millage levied at a maximum rate of .95 mills ($0.95 per $1,000 of taxable value) for 10 years (2022-2031)."
+                  ],
+                  promptText: "Should this proposal be adopted?",
+                  maxSelect: 1,
+                  isProposition: true,
+                  options: [
+                    { id: "millage_yes", name: "Yes", party: "" },
+                    { id: "millage_no", name: "No", party: "" }
+                  ],
+                  allowWriteIn: false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    };
+
+    /**
+     * In-Memory State of User Votes
+     * Structure: { [contestId]: { selections: string[], writeInText: string } }
+     */
+    const ballotState = {};
+
+    function initBallotState() {
+      BALLOT_DATA.columns.forEach(col => {
+        col.sections.forEach(sec => {
+          sec.contests.forEach(contest => {
+            ballotState[contest.id] = {
+              selections: [],
+              writeInText: ""
+            };
+          });
+        });
+      });
+    }
+
+    /**
+     * Render the multi-column ballot into the DOM
+     */
+    function renderBallot() {
+      const container = document.getElementById("ballotColumnsContainer");
+      container.innerHTML = "";
+
+      BALLOT_DATA.columns.forEach(colData => {
+        const colEl = document.createElement("div");
+        colEl.className = "ballot-column";
+        colEl.id = colData.id;
+
+        colData.sections.forEach(secData => {
+          // Section header banner
+          const bannerEl = document.createElement("div");
+          bannerEl.className = "section-banner";
+          bannerEl.textContent = secData.title;
+          colEl.appendChild(bannerEl);
+
+          // Contests
+          secData.contests.forEach(contest => {
+            const contestBlock = document.createElement("div");
+            contestBlock.className = "contest-block";
+            contestBlock.id = `contest-card-${contest.id}`;
+
+            const maxText = contest.maxSelect === 1 ? "Vote for not more than 1" : `Vote for not more than ${contest.maxSelect}`;
+
+            // Contest Header
+            let headerHTML = `
+              <div class="contest-header">
+                ${contest.category ? `<div class="contest-category">${contest.category}</div>` : ""}
+                <div class="contest-title">${contest.title}</div>
+                <div class="vote-rule">${maxText}</div>
+              </div>
+            `;
+
+            // Clear Button control for convenience
+            headerHTML += `
+              <div class="contest-tools">
+                <button type="button" class="btn-clear-contest" onclick="clearContest('${contest.id}')" aria-label="Clear choices for ${contest.title}">
+                  Clear contest
+                </button>
+              </div>
+            `;
+
+            // Proposition text if applicable
+            if (contest.isProposition) {
+              headerHTML += `
+                <div class="proposal-body">
+                  ${contest.body}
+                  ${contest.summaryPoints ? `
+                    <div class="proposal-summary">
+                      <strong>This proposed amendment would:</strong>
+                      <ul style="padding-left: 14px; margin-top: 3px;">
+                        ${contest.summaryPoints.map(p => `<li>${p}</li>`).join("")}
+                      </ul>
+                    </div>
+                  ` : ""}
+                  <div class="proposal-prompt">${contest.promptText}</div>
+                </div>
+              `;
+            }
+
+            contestBlock.innerHTML = headerHTML;
+
+            // Options List
+            const optionListEl = document.createElement("div");
+            optionListEl.className = "option-list";
+            optionListEl.setAttribute("role", contest.maxSelect === 1 ? "radiogroup" : "group");
+            optionListEl.setAttribute("aria-label", contest.title);
+
+            contest.options.forEach((opt, idx) => {
+              const row = document.createElement("label");
+              row.className = "option-row";
+              row.htmlFor = `opt-${opt.id}`;
+
+              const inputType = contest.maxSelect === 1 ? "radio" : "checkbox";
+              const inputName = `contest_${contest.id}`;
+
+              row.innerHTML = `
+                <input type="${inputType}" id="opt-${opt.id}" name="${inputName}" value="${opt.id}"
+                       onchange="handleSelectionChange('${contest.id}', '${opt.id}', this.checked)">
+                <span class="ballot-checkbox" aria-hidden="true"></span>
+                <div class="option-details">
+                  <span class="candidate-name">${opt.name}</span>
+                  ${opt.party ? `<span class="candidate-party">${opt.party}</span>` : ""}
+                </div>
+              `;
+              optionListEl.appendChild(row);
+
+              // Add sample ballot dashed separator between choices
+              if (idx < contest.options.length - 1) {
+                const sep = document.createElement("div");
+                sep.className = "dashed-separator";
+                optionListEl.appendChild(sep);
+              }
+            });
+
+            // Optional Write-in field
+            if (contest.allowWriteIn) {
+              const sep = document.createElement("div");
+              sep.className = "dashed-separator";
+              optionListEl.appendChild(sep);
+
+              const writeInRow = document.createElement("label");
+              writeInRow.className = "option-row";
+              writeInRow.htmlFor = `writein-${contest.id}`;
+
+              writeInRow.innerHTML = `
+                <input type="${contest.maxSelect === 1 ? 'radio' : 'checkbox'}" id="writein-check-${contest.id}"
+                       name="contest_${contest.id}" value="__writein__"
+                       onchange="handleWriteInChange('${contest.id}', this.checked)">
+                <span class="ballot-checkbox" aria-hidden="true"></span>
+                <div class="write-in-row">
+                  <span class="write-in-label">Write-in:</span>
+                  <input type="text" class="write-in-input" id="writein-input-${contest.id}"
+                         placeholder="Enter candidate name" aria-label="Write-in candidate name"
+                         oninput="handleWriteInText('${contest.id}', this.value)">
+                </div>
+              `;
+              optionListEl.appendChild(writeInRow);
+            }
+
+            contestBlock.appendChild(optionListEl);
+            colEl.appendChild(contestBlock);
+          });
+        });
+
+        container.appendChild(colEl);
+      });
+    }
+
+    /**
+     * Handle user selection toggles with max selection limits
+     */
+    function handleSelectionChange(contestId, optionId, isChecked) {
+      const contest = findContest(contestId);
+      if (!contest) return;
+
+      const state = ballotState[contestId];
+
+      if (contest.maxSelect === 1) {
+        state.selections = [optionId];
+      } else {
+        if (isChecked) {
+          if (!state.selections.includes(optionId)) {
+            if (state.selections.length >= contest.maxSelect) {
+              // Exceeded limit: remove first selection
+              const removed = state.selections.shift();
+              const oldInput = document.getElementById(`opt-${removed}`);
+              if (oldInput) oldInput.checked = false;
+            }
+            state.selections.push(optionId);
+          }
+        } else {
+          state.selections = state.selections.filter(id => id !== optionId);
+        }
+      }
+      updateUI();
+    }
+
+    /**
+     * Handle write-in selection
+     */
+    function handleWriteInChange(contestId, isChecked) {
+      const contest = findContest(contestId);
+      if (!contest) return;
+      const state = ballotState[contestId];
+
+      if (contest.maxSelect === 1) {
+        state.selections = ["__writein__"];
+      } else {
+        if (isChecked) {
+          if (!state.selections.includes("__writein__")) {
+            if (state.selections.length >= contest.maxSelect) {
+              const removed = state.selections.shift();
+              const oldInput = document.getElementById(`opt-${removed}`);
+              if (oldInput) oldInput.checked = false;
+            }
+            state.selections.push("__writein__");
+          }
+        } else {
+          state.selections = state.selections.filter(id => id !== "__writein__");
+        }
+      }
+
+      const input = document.getElementById(`writein-input-${contestId}`);
+      if (isChecked && input) {
+        input.focus();
+      }
+      updateUI();
+    }
+
+    function handleWriteInText(contestId, text) {
+      ballotState[contestId].writeInText = text;
+      // Auto-check write-in checkbox if user starts typing
+      const chk = document.getElementById(`writein-check-${contestId}`);
+      if (text.trim().length > 0 && chk && !chk.checked) {
+        chk.checked = true;
+        handleWriteInChange(contestId, true);
+      }
+    }
+
+    /**
+     * Clear all selections for a contest
+     */
+    function clearContest(contestId) {
+      ballotState[contestId].selections = [];
+      ballotState[contestId].writeInText = "";
+
+      const contestCard = document.getElementById(`contest-card-${contestId}`);
+      if (contestCard) {
+        const inputs = contestCard.querySelectorAll('input[type="checkbox"], input[type="radio"]');
+        inputs.forEach(i => i.checked = false);
+        const textInput = contestCard.querySelector('.write-in-input');
+        if (textInput) textInput.value = "";
+      }
+      updateUI();
+    }
+
+    /**
+     * Reset the entire ballot
+     */
+    function resetBallot() {
+      if (confirm("Reset all ballot selections back to blank?")) {
+        initBallotState();
+        renderBallot();
+        updateUI();
+        document.getElementById("confirmationBanner").style.display = "none";
+      }
+    }
+
+    function findContest(contestId) {
+      for (const col of BALLOT_DATA.columns) {
+        for (const sec of col.sections) {
+          for (const c of sec.contests) {
+            if (c.id === contestId) return c;
+          }
+        }
+      }
+      return null;
+    }
+
+    /**
+     * Update active counts and styling
+     */
+    function updateUI() {
+      let markedCount = 0;
+      Object.keys(ballotState).forEach(id => {
+        if (ballotState[id].selections.length > 0) {
+          markedCount += ballotState[id].selections.length;
+        }
+      });
+      document.getElementById("selectedCountBadge").textContent = markedCount;
+    }
+
+    /**
+     * Review Ballot Summary Logic
+     */
+    function openReviewModal() {
+      const reviewList = document.getElementById("reviewList");
+      reviewList.innerHTML = "";
+
+      let answered = 0;
+      let unanswered = 0;
+
+      BALLOT_DATA.columns.forEach(col => {
+        col.sections.forEach(sec => {
+          sec.contests.forEach(contest => {
+            const state = ballotState[contest.id];
+            const hasVote = state.selections.length > 0;
+
+            if (hasVote) answered++;
+            else unanswered++;
+
+            const item = document.createElement("div");
+            item.className = "review-contest-item";
+
+            let selectionLabel = "";
+            if (hasVote) {
+              selectionLabel = state.selections.map(optId => {
+                if (optId === "__writein__") {
+                  return `Write-in: "${state.writeInText || 'No name provided'}"`;
+                }
+                const opt = contest.options.find(o => o.id === optId);
+                return opt ? `${opt.name} ${opt.party ? `(${opt.party})` : ''}` : optId;
+              }).join(", ");
+            }
+
+            item.innerHTML = `
+              <div>
+                <div class="review-contest-title">${contest.title}</div>
+                ${hasVote
+                  ? `<div class="review-contest-selection">✓ ${selectionLabel}</div>`
+                  : `<div class="review-contest-empty">⚠ No selection made (Unanswered)</div>`}
+              </div>
+              <button type="button" class="btn btn-outline" style="font-size: 11px; padding: 4px 8px;"
+                      onclick="jumpToContest('${contest.id}')">
+                Edit
+              </button>
+            `;
+
+            reviewList.appendChild(item);
+          });
+        });
+      });
+
+      document.getElementById("answeredCount").textContent = answered;
+      document.getElementById("unansweredCount").textContent = unanswered;
+      document.getElementById("reviewModal").classList.add("active");
+    }
+
+    function closeReviewModal() {
+      document.getElementById("reviewModal").classList.remove("active");
+    }
+
+    function jumpToContest(contestId) {
+      closeReviewModal();
+      const el = document.getElementById(`contest-card-${contestId}`);
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+        el.style.backgroundColor = "#fef08a";
+        setTimeout(() => {
+          el.style.backgroundColor = "#ffffff";
+        }, 1500);
+      }
+    }
+
+    function confirmSubmission() {
+      closeReviewModal();
+      const banner = document.getElementById("confirmationBanner");
+      banner.style.display = "block";
+      banner.scrollIntoView({ behavior: "smooth" });
+    }
+
+    // Initialize Event Listeners
+    document.addEventListener("DOMContentLoaded", () => {
+      initBallotState();
+      renderBallot();
+      updateUI();
+
+      document.getElementById("btnPrint").addEventListener("click", () => window.print());
+      document.getElementById("btnReset").addEventListener("click", resetBallot);
+      document.getElementById("btnReview").addEventListener("click", openReviewModal);
+      document.getElementById("btnCloseReview").addEventListener("click", closeReviewModal);
+      document.getElementById("btnReturnToBallot").addEventListener("click", closeReviewModal);
+      document.getElementById("btnConfirmSubmit").addEventListener("click", confirmSubmission);
+
+      // Close modal on click outside
+      document.getElementById("reviewModal").addEventListener("click", (e) => {
+        if (e.target.id === "reviewModal") closeReviewModal();
+      });
+    });
+  </script>
+</body>
+</html>

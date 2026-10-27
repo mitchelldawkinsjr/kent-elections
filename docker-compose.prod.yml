@@ -1,0 +1,33 @@
+# Static practice ballot. Joins 360ws-network so Nginx Proxy Manager
+# can reach kent-ballot-app:80.
+#
+# NPM proxy host: ballot.360web.cloud → http://kent-ballot-app:80
+# Direct: http://82.25.91.63:8033/
+
+name: kent-ballot
+
+services:
+  app:
+    build: .
+    image: kent-ballot:latest
+    container_name: kent-ballot-app
+    restart: unless-stopped
+    ports:
+      - "${APP_PUBLISH_PORT:-8033}:80"
+    networks:
+      - proxy
+    labels:
+      - "com.360ws.type=docker-app"
+      - "com.360ws.app=kent-ballot"
+      - "com.360ws.domain=ballot.360web.cloud"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+networks:
+  proxy:
+    external: true
+    name: 360ws-network

@@ -1,0 +1,2998 @@
+[
+  {
+    "id": "race-1",
+    "section": "Statewide",
+    "title": "Governor/Lt. Governor",
+    "jurisdiction": "Michigan",
+    "term": "4 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Jocelyn Benson / Winnie Brinks",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: Jocelyn Benson has been Michigan secretary of state since 2019 and was previously dean of Wayne State University Law School. Winnie Brinks is majority leader of the Michigan Senate, the first woman in that job, and a senator since 2019 after six years in the state House.",
+        "filing": "Kent County official list: petitions, filed April 16, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia race page",
+            "url": "https://ballotpedia.org/Michigan_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+          },
+          {
+            "label": "Wikipedia — Jocelyn Benson",
+            "url": "https://en.wikipedia.org/wiki/Jocelyn_Benson"
+          },
+          {
+            "label": "Wikipedia — Winnie Brinks",
+            "url": "https://en.wikipedia.org/wiki/Winnie_Brinks"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jocelyn Benson",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jocelyn_Benson"
+          },
+          {
+            "name": "Jocelyn Benson",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jocelyn_Benson"
+          },
+          {
+            "name": "Winnie Brinks",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Winnie_Brinks"
+          },
+          {
+            "name": "Winnie Brinks",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Winnie_Brinks"
+          }
+        ]
+      },
+      {
+        "name": "John James / Jay DeBoyer",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: John James is the U.S. representative for Michigan’s 10th District, a businessman, and a former military officer. He was the Republican nominee for U.S. Senate in 2018 and 2020. Jay DeBoyer is a state representative and a former St. Clair County clerk.",
+        "filing": "Kent County official list: petitions, filed April 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia race page",
+            "url": "https://ballotpedia.org/Michigan_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+          },
+          {
+            "label": "Wikipedia — John James",
+            "url": "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)"
+          },
+          {
+            "label": "Wikipedia — Jay DeBoyer",
+            "url": "https://en.wikipedia.org/wiki/Jay_DeBoyer"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "John James",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/John_James_(Michigan)"
+          },
+          {
+            "name": "John James",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)"
+          },
+          {
+            "name": "Jay DeBoyer",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jay_DeBoyer"
+          },
+          {
+            "name": "Jay DeBoyer",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jay_DeBoyer"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Hudson / Beau Parmenter",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia lists Anthony Hudson, with Beau Parmenter, as the Libertarian ticket.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia race page",
+            "url": "https://ballotpedia.org/Michigan_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Anthony Hudson",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Anthony_Hudson_(Michigan)"
+          },
+          {
+            "name": "Beau Parmenter",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Beau_Parmenter"
+          }
+        ]
+      },
+      {
+        "name": "Donna Brandenburg / Robert Donald Cowper II",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "U.S. Taxpayers ticket. The state’s official candidate list gives this ticket a Byron Center mailing address. The street address is not shown here. No separate biography was found.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia race page",
+            "url": "https://ballotpedia.org/Michigan_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Donna Brandenburg",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Donna_Brandenburg"
+          },
+          {
+            "name": "Robert Donald Cowper II",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Robert_Cowper_II"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Campbell / Bobbie Clay",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia lists Douglas Campbell, with Bobbie Clay, as the Green ticket.",
+        "filing": "Kent County official list: convention, filed August 3, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia race page",
+            "url": "https://ballotpedia.org/Michigan_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Douglas Campbell",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Douglas_Campbell_(Michigan)"
+          },
+          {
+            "name": "Bobbie Clay",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Bobbie_Clay"
+          }
+        ]
+      }
+    ],
+    "page": 1,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 1",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=1"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: governor and lieutenant governor, 2026",
+        "url": "https://ballotpedia.org/Michigan_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+      }
+    ],
+    "note": "Ballotpedia describes this as an open seat because Gov. Gretchen Whitmer is term-limited. Running mates are listed with each ticket on the county candidate list.",
+    "scope": "statewide"
+  },
+  {
+    "id": "race-2",
+    "section": "Statewide",
+    "title": "Secretary of State",
+    "jurisdiction": "Michigan",
+    "term": "4 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Garlin Gilchrist II",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: Garlin Gilchrist II has been lieutenant governor of Michigan since 2019. He is an engineer. He sought the Democratic nomination for governor before becoming the nominee for secretary of state.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Garlin_Gilchrist"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Garlin Gilchrist II",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Garlin_Gilchrist_II"
+          },
+          {
+            "name": "Garlin Gilchrist II",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Garlin_Gilchrist"
+          }
+        ]
+      },
+      {
+        "name": "Anthony G. Forlini",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: Anthony Forlini has been Macomb County clerk since 2021. He served in the Michigan House from 2011 through 2016 and was Harrison Township supervisor from 2004 to 2011.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anthony_Forlini"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Anthony G. Forlini",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Anthony_G._Forlini"
+          },
+          {
+            "name": "Anthony G. Forlini",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anthony_Forlini"
+          }
+        ]
+      },
+      {
+        "name": "Christine Sloan",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for secretary of state.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Christine Sloan",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Christine_Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Scott E. Aughney",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for secretary of state.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Scott E. Aughney",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Scott_E._Aughney"
+          }
+        ]
+      },
+      {
+        "name": "Eric Borregard",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for secretary of state.",
+        "filing": "Kent County official list: convention, filed July 23, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Eric Borregard",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Eric_Borregard"
+          }
+        ]
+      }
+    ],
+    "page": 1,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 1",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=1"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "note": "Ballotpedia’s 2026 Michigan candidate index lists these nominees for secretary of state. Party nominees for this office are chosen at conventions.",
+    "scope": "statewide"
+  },
+  {
+    "id": "race-3",
+    "section": "Statewide",
+    "title": "Attorney General",
+    "jurisdiction": "Michigan",
+    "term": "4 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Eli Savit",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: Eli Savit has been Washtenaw County prosecuting attorney since 2021. He was senior legal counsel to Detroit Mayor Mike Duggan, clerked for U.S. Supreme Court Justices Sandra Day O’Connor and Ruth Bader Ginsburg, and teaches at the University of Michigan Law School.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eli_Savit"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Eli Savit",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Eli_Savit"
+          },
+          {
+            "name": "Eli Savit",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eli_Savit"
+          }
+        ]
+      },
+      {
+        "name": "Doug Lloyd",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Doug Lloyd is the Eaton County prosecuting attorney and the Republican nominee. He was appointed in 2013 after earlier work as a prosecutor in Eaton and Jackson counties, and he is a former president of the Prosecuting Attorneys Association of Michigan. This is not the former football player of the same name.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public interview",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-22/doug-lloyd-michigan-attorney-general-candidate"
+          },
+          {
+            "label": "Eaton County biography",
+            "url": "https://www.eatoncounty.org/m/directory/employee?eid=7"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Doug Lloyd",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Doug_Lloyd"
+          }
+        ]
+      },
+      {
+        "name": "Jason Dye",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for attorney general.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jason Dye",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jason_Dye"
+          }
+        ]
+      },
+      {
+        "name": "John Perry Ludtke Jr.",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for attorney general.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "John Perry Ludtke Jr.",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/John_Ludtke"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Polonowski",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for attorney general.",
+        "filing": "Kent County official list: convention, filed August 3, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jeff Polonowski",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jeff_Polonowski"
+          }
+        ]
+      },
+      {
+        "name": "Doug Dern",
+        "party": "Natural Law",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s 2026 Michigan candidate index includes this nominee for attorney general.",
+        "filing": "Kent County official list: convention, filed August 31, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Doug Dern",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Doug_Dern"
+          }
+        ]
+      }
+    ],
+    "page": 1,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 1",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=1"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "note": "Ballotpedia’s 2026 Michigan candidate index lists these nominees for attorney general.",
+    "scope": "statewide"
+  },
+  {
+    "id": "race-4",
+    "section": "Congress",
+    "title": "United States Senator",
+    "jurisdiction": "Michigan",
+    "term": "6 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Abdul El-Sayed",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: Abdul El-Sayed is a physician and epidemiologist. He led the Detroit Health Department from 2015 to 2017 and the Wayne County health department from 2023 to 2025. He is a University of Michigan graduate and a Rhodes Scholar, and he won the 2026 Democratic primary.",
+        "filing": "Kent County official list: petitions, filed April 14, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Abdul El-Sayed",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Abdul_El-Sayed"
+          },
+          {
+            "name": "Abdul El-Sayed",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed"
+          }
+        ]
+      },
+      {
+        "name": "Mike Rogers",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Wikipedia: Mike Rogers represented Michigan’s 8th Congressional District from 2001 to 2015 and chaired the House Intelligence Committee. He is a former FBI agent. He was the Republican nominee for U.S. Senate in 2024 and is the nominee again.",
+        "filing": "Kent County official list: petitions, filed April 17, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Mike Rogers",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Mike_Rogers_(Michigan)"
+          },
+          {
+            "name": "Mike Rogers",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"
+          }
+        ]
+      },
+      {
+        "name": "Lydia Christensen",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "On the Kent County list as the Libertarian nominee. A separate Ballotpedia profile was not attached.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Lydia Christensen",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Lydia_Christensen"
+          }
+        ]
+      },
+      {
+        "name": "Tim Long",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "On the Kent County list as the U.S. Taxpayers nominee. A separate Ballotpedia profile was not attached.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Tim Long",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Timothy_Long"
+          }
+        ]
+      },
+      {
+        "name": "Douglas P. Marsh",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "On the Kent County list as the Green nominee. A separate Ballotpedia profile was not attached.",
+        "filing": "Kent County official list: convention, filed April 27, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Douglas P. Marsh",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Douglas_P._Marsh"
+          }
+        ]
+      },
+      {
+        "name": "Walter P. Kristy",
+        "party": "Natural Law",
+        "status": "Ballot-listed",
+        "note": "On the Kent County list as the Natural Law nominee. That row did not include a filing date in the text extraction.",
+        "filing": "Kent County official list: Natural Law nominee. No filing date was extracted for this row.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Walter P. Kristy",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Walter_P._Kristy"
+          }
+        ]
+      }
+    ],
+    "page": 1,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 1",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=1"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "statewide"
+  },
+  {
+    "id": "race-6",
+    "section": "Congress",
+    "title": "Representative in Congress - 3rd District",
+    "jurisdiction": "3rd District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Hillary Scholten",
+        "party": "Democratic",
+        "status": "Incumbent",
+        "note": "Wikipedia: Hillary Scholten has represented Michigan’s 3rd Congressional District since 2023. She is an attorney who previously worked at the U.S. Department of Justice and in private practice.",
+        "filing": "Kent County official list: petitions, filed April 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hillary_Scholten"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Hillary Scholten",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Hillary_Scholten"
+          },
+          {
+            "name": "Hillary Scholten",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hillary_Scholten"
+          }
+        ]
+      },
+      {
+        "name": "Terri DeBoer",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "MLive: Terri DeBoer is a West Michigan meteorologist who worked in local television for more than 30 years, including at WOOD-TV, and lives in Byron Center. She left broadcasting to run and won the August 2026 Republican primary.",
+        "filing": "Kent County official list: petitions, filed April 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "MLive profile",
+            "url": "https://www.mlive.com/news/grand-rapids/2026/08/familiar-face-uphill-race-terri-deboer-faces-difficult-path-against-hillary-scholten.html"
+          },
+          {
+            "label": "Ballotpedia",
+            "url": "https://ballotpedia.org/Terri_DeBoer"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Terri DeBoer",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Terri_DeBoer"
+          }
+        ]
+      },
+      {
+        "name": "Joe Jock",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "On the Kent County list as the Green nominee. Ballotpedia’s candidate index reviewed for this update did not include a separate line for this candidate.",
+        "filing": "Kent County official list: convention, filed August 3, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=1"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Joe Jock",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Joe_Jock"
+          }
+        ]
+      }
+    ],
+    "page": 1,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 1",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=1"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "congress-3"
+  },
+  {
+    "id": "race-8",
+    "section": "Legislature",
+    "title": "State Senator - 20th District",
+    "jurisdiction": "20th District",
+    "term": "4 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Dale Murney",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia: Dale Murney is the Democratic nominee and was unopposed in the August 4, 2026 primary. ABC57 reports the seat is open because Senator Aric Nesbitt is term-limited. No occupation was found.",
+        "filing": "Kent County official list: fee, filed February 11, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: District 20",
+            "url": "https://ballotpedia.org/Michigan_State_Senate_District_20"
+          },
+          {
+            "label": "ABC57 primary coverage",
+            "url": "https://www.abc57.com/news/candidates-for-michigan-state-senate-district-20-race-speak-out"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Dale Murney",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Dale_Murney"
+          }
+        ]
+      },
+      {
+        "name": "Chris Moraitis",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "ABC57: Chris Moraitis, the Republican nominee, has served as president of the Van Buren Bar Association and has been involved with the Paw Paw Downtown Development Authority and the Van Buren County Republican Party. He won a three-way primary.",
+        "filing": "Kent County official list: fee, filed February 25, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: District 20",
+            "url": "https://ballotpedia.org/Michigan_State_Senate_District_20"
+          },
+          {
+            "label": "ABC57 primary coverage",
+            "url": "https://www.abc57.com/news/candidates-for-michigan-state-senate-district-20-race-speak-out"
+          },
+          {
+            "label": "Ballotpedia",
+            "url": "https://ballotpedia.org/Chris_Moraitis"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Chris Moraitis",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Chris_Moraitis"
+          }
+        ]
+      },
+      {
+        "name": "Shamara Clay",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia lists Shamara Clay as the Green nominee for State Senate District 20.",
+        "filing": "Kent County official list: convention, filed August 3, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: District 20",
+            "url": "https://ballotpedia.org/Michigan_State_Senate_District_20"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Shamara Clay",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Shamara_Clay"
+          }
+        ]
+      }
+    ],
+    "page": 2,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 2",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=2"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: State Senate District 20",
+        "url": "https://ballotpedia.org/Michigan_State_Senate_District_20"
+      }
+    ],
+    "note": "Ballotpedia says no incumbent is running. It identifies Aric Nesbitt as the current senator for District 20, and he is not on this general-election ballot.",
+    "scope": "senate-20"
+  },
+  {
+    "id": "race-13",
+    "section": "Legislature",
+    "title": "State Representative - 79th District",
+    "jurisdiction": "79th District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Zach Abbott",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "MLive: Zach Abbott, the Democratic nominee, served six years in the U.S. Air Force, graduated from Calvin University with a history degree, and worked as a researcher at The Right Place in Grand Rapids. He lives in Caledonia Township.",
+        "filing": "Kent County official list: fee, filed August 25, 2025.",
+        "links": [
+          {
+            "label": "Ballotpedia: District 79",
+            "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_79"
+          },
+          {
+            "label": "MLive profile",
+            "url": "https://www.mlive.com/news/grand-rapids/2026/10/republican-incumbent-faces-former-researcher-for-state-house-district-79-seat.html"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Zach Abbott",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Zach_Abbott"
+          }
+        ]
+      },
+      {
+        "name": "Angela Rigas",
+        "party": "Republican",
+        "status": "Incumbent",
+        "note": "MLive: Angela Rigas, the Republican incumbent since 2023, is a Hastings High School graduate and a small-business owner in the salon industry. She was unopposed in the August 2026 primary.",
+        "filing": "Kent County official list: fee, filed March 12, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia profile",
+            "url": "https://ballotpedia.org/Angela_Rigas"
+          },
+          {
+            "label": "Ballotpedia: District 79",
+            "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_79"
+          },
+          {
+            "label": "MLive profile",
+            "url": "https://www.mlive.com/news/grand-rapids/2026/10/republican-incumbent-faces-former-researcher-for-state-house-district-79-seat.html"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Angela_Rigas"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Angela Rigas",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Angela_Rigas"
+          },
+          {
+            "name": "Angela Rigas",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Angela_Rigas"
+          }
+        ]
+      }
+    ],
+    "page": 2,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 2",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=2"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: House District 79",
+        "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_79"
+      },
+      {
+        "label": "Ballotpedia: Angela Rigas",
+        "url": "https://ballotpedia.org/Angela_Rigas"
+      }
+    ],
+    "note": "The county list says vote for not more than 1. An earlier edition of this guide left the vote limit and both parties blank.",
+    "scope": "house-79"
+  },
+  {
+    "id": "race-22",
+    "section": "Legislature",
+    "title": "Member of the State Board of Education",
+    "jurisdiction": "Michigan",
+    "term": "8 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Judith Pritchett",
+        "party": "Democratic",
+        "status": "Incumbent",
+        "note": "Bridge Michigan: Judith Pritchett is an incumbent Democrat first elected to the State Board of Education in 2018. The same report describes her as an education consultant and retired public-school administrator from Macomb County.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://www.bridgedetroit.com/michigan-state-board-of-education-candidates-what-to-know/"
+          },
+          {
+            "label": "Longer candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Judith Pritchett",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Judith_Pritchett"
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Tilley",
+        "party": "Democratic",
+        "status": "Incumbent",
+        "note": "Bridge Michigan: Tiffany Tilley is an incumbent Democrat first elected in 2018. The same report describes her as an adjunct professor and realtor from West Bloomfield.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://www.bridgedetroit.com/michigan-state-board-of-education-candidates-what-to-know/"
+          },
+          {
+            "label": "Longer candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Tiffany Tilley",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Tiffany_Tilley"
+          }
+        ]
+      },
+      {
+        "name": "Terence Collins",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Bridge Michigan: Terence Collins, the Republican nominee, is a senior financial analyst at General Motors. A compiled voter guide says he was appointed to the Grosse Pointe Public Schools board in 2023 and lost a bid for a full term in 2024.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://www.bridgedetroit.com/michigan-state-board-of-education-candidates-what-to-know/"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://collins4misboe.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Terence Collins",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Terence_Collins_(Michigan)"
+          }
+        ]
+      },
+      {
+        "name": "Bree Moeggenberg",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Bridge Michigan: Bree Moeggenberg, the Republican nominee, is a recruiter for a canvassing company and a licensed child-care provider from Mt. Pleasant.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://www.bridgedetroit.com/michigan-state-board-of-education-candidates-what-to-know/"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://www.bree4misboe.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Bree Moeggenberg",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Bree_Moeggenberg"
+          }
+        ]
+      },
+      {
+        "name": "Charles Essner",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide describes Libertarian nominee Charles Essner as managing partner of a machining shop in Oxford and a former manufacturing engineer. No campaign site was found.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Charles Essner",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Charles_Essner"
+          }
+        ]
+      },
+      {
+        "name": "William Mohr II",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide lists U.S. Taxpayers nominee William Mohr II in Kent City and reports earlier campaigns for the Wayne State board, the Kent City school board, and Tyrone Township trustee. No 2026 campaign site was found.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "William Mohr II",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/William_Mohr_II"
+          }
+        ]
+      },
+      {
+        "name": "Christine C. Schwartz",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide says U.S. Taxpayers nominee Christine C. Schwartz served four terms on the Hopkins Public Schools board and has been the party’s nominee for statewide education offices before.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Christine C. Schwartz",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Christine_Schwartz"
+          }
+        ]
+      },
+      {
+        "name": "Wissam Charafeddine",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide describes Green nominee Wissam Charafeddine as a family-engagement liaison at Hamadeh Educational Services.",
+        "filing": "Kent County official list: convention, filed April 27, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://charafeddine2026.com"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Wissam Charafeddine",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Wissam_Charafeddine"
+          }
+        ]
+      },
+      {
+        "name": "Mary Anne Hering",
+        "party": "Working Class",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide describes Working Class nominee Mary Anne Hering as a retired social-sciences instructor who taught for decades at Henry Ford College, and as the party’s nominee for this board in several recent elections.",
+        "filing": "Kent County official list: convention, filed June 8, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          },
+          {
+            "label": "Working Class Party",
+            "url": "https://workingclassfight.com"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/michigan-state-board-of-education-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Mary Anne Hering",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Mary_Anne_Hering"
+          }
+        ]
+      },
+      {
+        "name": "Kelli Monroe",
+        "party": "Natural Law",
+        "status": "Ballot-listed",
+        "note": "Ballotpedia’s State Board of Education page lists this convention nominee. Two seats are on the ballot.",
+        "filing": "Kent County official list: Natural Law nominee. No filing date was extracted for this row.",
+        "links": [
+          {
+            "label": "Ballotpedia: State Board of Education",
+            "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Kelli Monroe",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Kelli_Monroe"
+          }
+        ]
+      }
+    ],
+    "page": 3,
+    "type": "Office",
+    "note": "Statewide office, vote for not more than 2. An earlier edition mislabeled this race as the 91st District. Ballotpedia: nominees are chosen at party conventions.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 3",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=3"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: State Board of Education, 2026",
+        "url": "https://ballotpedia.org/Michigan_State_Board_of_Education_election,_2026"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "statewide"
+  },
+  {
+    "id": "race-23",
+    "section": "Legislature",
+    "title": "Regent of the University of Michigan",
+    "jurisdiction": "Michigan",
+    "term": "8 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Paul Brown",
+        "party": "Democratic",
+        "status": "Incumbent",
+        "note": "Michigan Public: Paul Brown is an incumbent University of Michigan regent and a Democratic nominee. A compiled voter guide lists him as managing partner of eLab Ventures.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/meet-the-candidates-running-for-the-u-m-board-of-regents"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://gobluevotebrown.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Paul Brown",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Paul_Brown_(Michigan)"
+          }
+        ]
+      },
+      {
+        "name": "Amir Makled",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Amir Makled is a civil-rights attorney and a Democratic nominee. He defeated incumbent regent Jordan Acker for the nomination. Acker is not on this ballot.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/meet-the-candidates-running-for-the-u-m-board-of-regents"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://amirmakled.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Amir Makled",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Amir_Makled"
+          }
+        ]
+      },
+      {
+        "name": "Lena Epstein",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Lena Epstein, a Republican nominee, is co-owner of Vesco Oil Corporation. She was the Republican nominee for this board in 2022 and the 2018 Republican nominee for Congress in Michigan’s 11th District.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/meet-the-candidates-running-for-the-u-m-board-of-regents"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://lenaforuofm.com/"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Lena Epstein",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Lena_Epstein"
+          }
+        ]
+      },
+      {
+        "name": "Michael Schostak",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Michael Schostak, a Republican nominee, is treasurer of Bloomfield Township and a former finance lecturer at Wayne State. A compiled voter guide says he leads Schostak Capital Advisors.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/meet-the-candidates-running-for-the-u-m-board-of-regents"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://michaelschostak.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Michael Schostak",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Michael_Schostak"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Chadderdon",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide says Libertarian nominee Andrew Chadderdon was also the party’s nominee for this board in 2024. No campaign platform was found.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Andrew Chadderdon",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Andrew_Chadderdon"
+          }
+        ]
+      },
+      {
+        "name": "Kyle Maas",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide lists U.S. Taxpayers nominee Kyle Maas in Byron Center and says he took part in a University of Michigan faculty-senate forum. No campaign site was found.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Kyle Maas",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Kyle_Maas"
+          }
+        ]
+      }
+    ],
+    "page": 3,
+    "type": "Office",
+    "note": "Statewide office, vote for not more than 2. An earlier edition mislabeled this race as the 91st District. Ballotpedia: nominees are chosen at party conventions.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 3",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=3"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "statewide"
+  },
+  {
+    "id": "race-24",
+    "section": "Legislature",
+    "title": "Trustee of Michigan State University",
+    "jurisdiction": "Michigan",
+    "term": "8 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Brianna Scott",
+        "party": "Democratic",
+        "status": "Incumbent",
+        "note": "Michigan Public: Brianna Scott is chair of the MSU Board of Trustees and a Democratic nominee seeking another term. She is a Muskegon attorney and an MSU alumna.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-23/meet-the-democratic-and-republican-candidates-for-the-msu-board-of-trustees"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://brianna4msu.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Brianna Scott",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Brianna_Scott"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Tebay Zemke",
+        "party": "Democratic",
+        "status": "Incumbent",
+        "note": "Michigan Public: Kelly Tebay Zemke is an incumbent MSU trustee and director of government and external relations at The Henry Ford in Dearborn. She is a Democratic nominee. Ballotpedia shortens her name to Kelly Tebay.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-23/meet-the-democratic-and-republican-candidates-for-the-msu-board-of-trustees"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://kellyformsu.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Kelly Tebay Zemke",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Kelly_Tebay"
+          }
+        ]
+      },
+      {
+        "name": "Julie Maday",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Julie Maday, a Republican nominee, is a former Novi City Council member. She ran for this board in 2024 and lost by fewer than 5,000 votes.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-23/meet-the-democratic-and-republican-candidates-for-the-msu-board-of-trustees"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://juliemadayformsu.org"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Julie Maday",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Julie_Maday"
+          }
+        ]
+      },
+      {
+        "name": "Roger Victory",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Roger Victory is a Republican state senator from Hudsonville and owner of Victory Farms. He is term-limited in the Senate at the end of 2026 and is a Republican nominee for this board.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-23/meet-the-democratic-and-republican-candidates-for-the-msu-board-of-trustees"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Roger_Victory"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Roger Victory",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Roger_Victory"
+          },
+          {
+            "name": "Roger Victory",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Roger_Victory"
+          }
+        ]
+      },
+      {
+        "name": "Daniel R. Patterson",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "Listed on the Kent County candidate list and on Ballotpedia’s 2026 roster for the MSU Board of Trustees.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Daniel R. Patterson",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Daniel_Patterson"
+          }
+        ]
+      },
+      {
+        "name": "Will Tyler White",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "Libertarian nominee Will Tyler White’s campaign site describes him as an MSU student and emphasizes budget management, affordability, and online courses.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://willtylerwhite.org"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Will Tyler White",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Will_Tyler_White"
+          }
+        ]
+      },
+      {
+        "name": "Janet Sanger",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "Listed on the Kent County candidate list and on Ballotpedia’s 2026 roster for the MSU Board of Trustees.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Janet Sanger",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Janet_Sanger"
+          }
+        ]
+      },
+      {
+        "name": "John Sanger",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide says U.S. Taxpayers nominee John Sanger, of Litchfield, has run for this board several times. No 2026 campaign platform was found.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "John Sanger",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/John_Sanger"
+          }
+        ]
+      },
+      {
+        "name": "John Anthony La Pietra",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide describes Green nominee John Anthony La Pietra as an attorney from Marshall who has run for this board and other offices before.",
+        "filing": "Kent County official list: convention, filed February 23, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "John Anthony La Pietra",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/John_Anthony_La_Pietra"
+          }
+        ]
+      },
+      {
+        "name": "Yaz Ozbek",
+        "party": "Working Class",
+        "status": "Ballot-listed",
+        "note": "Listed on the Kent County candidate list and on Ballotpedia’s 2026 roster for the MSU Board of Trustees.",
+        "filing": "Kent County official list: convention, filed June 8, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Yaz Ozbek",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Yaz_Ozbek"
+          }
+        ]
+      }
+    ],
+    "page": 3,
+    "type": "Office",
+    "note": "Statewide office, vote for not more than 2. An earlier edition mislabeled this race as the 91st District. Ballotpedia: nominees are chosen at party conventions.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 3",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=3"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "statewide"
+  },
+  {
+    "id": "race-25",
+    "section": "Legislature",
+    "title": "Governor of Wayne State University",
+    "jurisdiction": "Michigan",
+    "term": "8 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Shereef Akeel",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "MLive: Shereef Akeel, a Democratic nominee, is a civil-rights attorney, a certified public accountant, and a Wayne State alumnus.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "MLive",
+            "url": "https://www.mlive.com/news/detroit/2026/10/10-candidates-seek-2-seats-on-wayne-state-university-board.html"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://akeelforwsu.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Shereef Akeel",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Shereef_Akeel"
+          }
+        ]
+      },
+      {
+        "name": "Richard Mack",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "note": "MLive: Richard Mack, a Democratic nominee, is a union-side labor and employment attorney and a Wayne State law graduate.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "MLive",
+            "url": "https://www.mlive.com/news/detroit/2026/10/10-candidates-seek-2-seats-on-wayne-state-university-board.html"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://richardmackforwsu.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Richard Mack",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Richard_Mack_(Michigan)"
+          }
+        ]
+      },
+      {
+        "name": "Andy Anuzis",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide says Republican nominee Andy Anuzis is principal of Lincoln-King High School. It also says he previously led Cornerstone Schools in Detroit.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://andyforwaynestate.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Andy Anuzis",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Andy_Anuzis"
+          }
+        ]
+      },
+      {
+        "name": "Christa Murphy",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "note": "MLive: Christa Murphy, a Republican nominee, is a technology executive. A compiled voter guide describes work at Meta, Samsung, and General Motors, and an earlier run for this board in 2022.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "MLive",
+            "url": "https://www.mlive.com/news/detroit/2026/10/10-candidates-seek-2-seats-on-wayne-state-university-board.html"
+          },
+          {
+            "label": "Campaign site",
+            "url": "https://murphyforwaynestate.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Christa Murphy",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Christa_Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Alex Avery",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "Listed on the Kent County candidate list and on Ballotpedia’s 2026 roster for the Wayne State Board of Governors. Ballotpedia shortens some of these names.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Alex Avery",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Alex_Avery_(Michigan)"
+          }
+        ]
+      },
+      {
+        "name": "Jami Van Alstine",
+        "party": "Libertarian",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide says Libertarian nominee Jami Van Alstine listed the occupation of system administrator in a prior local campaign. No 2026 campaign platform was found.",
+        "filing": "Kent County official list: convention, filed June 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jami Van Alstine",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jami_Van_Alstine"
+          }
+        ]
+      },
+      {
+        "name": "Jeff McDonald",
+        "party": "U.S. Taxpayers",
+        "status": "Ballot-listed",
+        "note": "Listed on the Kent County candidate list and on Ballotpedia’s 2026 roster for the Wayne State Board of Governors. Ballotpedia shortens some of these names.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jeff McDonald",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jeff_McDonald_(Michigan)"
+          }
+        ]
+      },
+      {
+        "name": "Paul M. Ragan",
+        "party": "Green",
+        "status": "Ballot-listed",
+        "note": "Listed on the Kent County candidate list and on Ballotpedia’s 2026 roster for the Wayne State Board of Governors. Ballotpedia shortens some of these names.",
+        "filing": "Kent County official list: convention, filed April 27, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Paul M. Ragan",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Paul_Ragan"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Roehrig",
+        "party": "Working Class",
+        "status": "Ballot-listed",
+        "note": "MLive: Suzanne Roehrig, the Working Class nominee, is a retired teacher and librarian with three degrees from Wayne State.",
+        "filing": "Kent County official list: convention, filed June 8, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "MLive",
+            "url": "https://www.mlive.com/news/detroit/2026/10/10-candidates-seek-2-seats-on-wayne-state-university-board.html"
+          },
+          {
+            "label": "Working Class Party",
+            "url": "https://workingclassfight.com"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Suzanne Roehrig",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Suzanne_Roehrig"
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Oakford",
+        "party": "Natural Law",
+        "status": "Ballot-listed",
+        "note": "A compiled voter guide says Natural Law nominee Kathleen Oakford ran for this board in 2024 and for University of Michigan regent in 2022. No 2026 campaign platform was found.",
+        "filing": "Kent County official list: Natural Law nominee. No filing date was extracted for this row.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Candidate guide",
+            "url": "https://michwomen.com/blog/u-m-regents-msu-trustees-wsu-governors-2026-voter-guide"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Kathleen Oakford",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Kathleen_Oakford"
+          }
+        ]
+      }
+    ],
+    "page": 3,
+    "type": "Office",
+    "note": "Statewide office, vote for not more than 2. An earlier edition mislabeled this race as the 91st District. Ballotpedia: nominees are chosen at party conventions.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 3",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=3"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "statewide"
+  },
+  {
+    "id": "race-31",
+    "section": "Judicial",
+    "title": "Justice of Supreme Court",
+    "jurisdiction": "Michigan",
+    "term": "8 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Megan Kathleen Cavanagh",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Michigan Public: Megan Cavanagh is chief justice, a justice since 2019, and the Democratic nominee. Before the court she was an appellate attorney in private practice. The Michigan Manual says she became chief justice in 2025.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Supreme Court 2026",
+            "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/michigan-supreme-court-candidates-2026"
+          },
+          {
+            "label": "Michigan Manual",
+            "url": "https://www.legislature.mi.gov/documents/2025-2026/michiganmanual/2025-MM-P0442-p0448.pdf"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Megan Kathleen Cavanagh",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Megan_Cavanagh"
+          }
+        ]
+      },
+      {
+        "name": "Noah P. Hood",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Michigan Public: Noah Hood was appointed to the Supreme Court in May 2025 by Governor Gretchen Whitmer and is the Democratic nominee for a full term. He previously was a Court of Appeals judge, a Wayne County circuit judge, and a federal prosecutor.",
+        "filing": "Kent County official list: convention, filed August 29, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Supreme Court 2026",
+            "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/michigan-supreme-court-candidates-2026"
+          },
+          {
+            "label": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Noah_Hood"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Noah P. Hood",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Noah_Hood"
+          },
+          {
+            "name": "Noah P. Hood",
+            "site": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Noah_Hood"
+          }
+        ]
+      },
+      {
+        "name": "Thomas W. Howe",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Bridge Michigan: Thomas Howe, the U.S. Taxpayers nominee, is a retired engineer and does not have a law degree. The Michigan Constitution requires a justice to be a licensed lawyer with at least five years of practice. News outlets report he can appear on the ballot but could not take office if elected.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Supreme Court 2026",
+            "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://bridgemi.com/michigan-government/whos-running-for-michigan-supreme-court-6-candidates-compete-for-2-seats/"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/michigan-supreme-court-candidates-2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Thomas W. Howe",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Thomas_Howe"
+          }
+        ]
+      },
+      {
+        "name": "Casandra Morse-Bills",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Casandra Morse-Bills is the presiding judge of the 23rd Circuit Court, elected in 2018 and re-elected in 2024, and a former prosecutor. She is a Republican nominee. No party is printed on the ballot.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Supreme Court 2026",
+            "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/michigan-supreme-court-candidates-2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Casandra Morse-Bills",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Casandra_Morse-Bills"
+          }
+        ]
+      },
+      {
+        "name": "Michael Warren",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Michigan Public: Michael Warren has been an Oakland County circuit judge since 2002 and is the Republican nominee. He has taught constitutional law and served on the State Board of Education from 1999 to 2002. He said the Libertarian Party endorsed him but could not nominate him, because Michigan does not allow two parties to nominate the same candidate.",
+        "filing": "Kent County official list: convention, filed August 22, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Supreme Court 2026",
+            "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/michigan-supreme-court-candidates-2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://bridgemi.com/michigan-government/whos-running-for-michigan-supreme-court-6-candidates-compete-for-2-seats/"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Michael Warren",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Michael_D._Warren_Jr._(Michigan)"
+          }
+        ]
+      },
+      {
+        "name": "Jody White",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Bridge Michigan: Jody White, the U.S. Taxpayers nominee, is a real-estate broker and does not have a law degree. As with Thomas Howe, news outlets report she can appear on the ballot but could not take office if elected.",
+        "filing": "Kent County official list: convention, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Supreme Court 2026",
+            "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+          },
+          {
+            "label": "Bridge Michigan",
+            "url": "https://bridgemi.com/michigan-government/whos-running-for-michigan-supreme-court-6-candidates-compete-for-2-seats/"
+          },
+          {
+            "label": "Michigan Public",
+            "url": "https://www.michiganpublic.org/politics-government/2026-10-09/michigan-supreme-court-candidates-2026"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jody White",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jody_White"
+          }
+        ]
+      }
+    ],
+    "page": 4,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 4",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan Supreme Court, 2026",
+        "url": "https://ballotpedia.org/Michigan_Supreme_Court_elections,_2026"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "note": "The general-election ballot is nonpartisan. Ballotpedia reports that parties nominate Supreme Court candidates at conventions. Two seats are on the ballot. Bridge Michigan reports that two U.S. Taxpayers nominees do not have law degrees. The state constitution requires a justice to be a licensed lawyer with at least five years of practice. They can appear on the ballot; news outlets report they could not take office if elected. Bridge Michigan reports that two U.S. Taxpayers nominees do not have law degrees. The state constitution requires a justice to be a licensed lawyer with at least five years of practice. They can appear on the ballot; news outlets report they could not take office if elected. Bridge Michigan reports that two U.S. Taxpayers nominees do not have law degrees. The state constitution requires a justice to be a licensed lawyer with at least five years of practice. They can appear on the ballot; news outlets report they could not take office if elected.",
+    "scope": "statewide"
+  },
+  {
+    "id": "race-32",
+    "section": "Judicial",
+    "title": "Judge of Court of Appeals - 3rd District - Incumbent",
+    "jurisdiction": "Michigan",
+    "term": "6 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Mark T. Boonstra",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Incumbent judge of the Michigan Court of Appeals, 3rd District. The county list shows no challenger for this seat. A current biography was not copied into this guide; the court’s judge directory is the place to confirm the official bio.",
+        "filing": "Kent County official list: affidavit of incumbency, filed January 28, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Court of Appeals judges",
+            "url": "https://www.courts.michigan.gov/courts/court-of-appeals/judges/"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Mark T. Boonstra",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Mark_Boonstra"
+          }
+        ]
+      },
+      {
+        "name": "Daniel S. Korobkin",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Incumbent judge of the Michigan Court of Appeals, 3rd District. The county list shows no challenger for this seat. A current biography was not copied into this guide; the court’s judge directory is the place to confirm the official bio.",
+        "filing": "Kent County official list: affidavit of incumbency, filed March 2, 2026.",
+        "links": [
+          {
+            "label": "Ballotpedia: Michigan 2026 candidates",
+            "url": "https://ballotpedia.org/Michigan_elections,_2026"
+          },
+          {
+            "label": "Court of Appeals judges",
+            "url": "https://www.courts.michigan.gov/courts/court-of-appeals/judges/"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Daniel S. Korobkin",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Daniel_Korobkin"
+          }
+        ]
+      }
+    ],
+    "page": 4,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 4",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "note": "Ballotpedia’s 2026 Michigan index lists both candidates as incumbents for two seats on the 3rd District Court of Appeals. The ballot is nonpartisan.",
+    "scope": "appeals-3"
+  },
+  {
+    "id": "race-33",
+    "section": "Judicial",
+    "title": "Judge of Circuit Court - 17th Circuit - Incumbent",
+    "jurisdiction": "Michigan",
+    "term": "6 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Maureen A. Gottlieb",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "A professional biography: Maureen Gottlieb has been a 17th Circuit Court judge in the Family Division since January 2021. Her earlier career was in family law, mostly at Legal Aid of Western Michigan, and she was a circuit-court referee before joining the bench.",
+        "filing": "Kent County official list: affidavit of incumbency, filed December 15, 2025.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+          },
+          {
+            "label": "Professional biography",
+            "url": "https://www.icle.org/modules/directories/contributors/bio.aspx?Pnumber=P71673"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Maureen A. Gottlieb",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Maureen_A._Gottlieb_(Michigan_17th_Circuit_Court,_Michigan,_candidate_2026)"
+          }
+        ]
+      },
+      {
+        "name": "Scott A. Noto",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Kent County: Scott Noto was elected in November 2020. He practiced civil and criminal law and has been an Army judge advocate since 2009. He earned a B.A. from the University of Chicago and a law degree from Loyola University Chicago.",
+        "filing": "Kent County official list: affidavit of incumbency, filed January 20, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+          },
+          {
+            "label": "Kent County biography",
+            "url": "https://www.kentcountymi.gov/m/directory/employee?eid=40"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Scott A. Noto",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Scott_A._Noto_(Michigan_17th_Circuit_Court,_Michigan,_candidate_2026)"
+          }
+        ]
+      },
+      {
+        "name": "Clay M. West",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Kent County: Clay West joined the 17th Circuit Court in April 2023. He was a federal prosecutor and an Army judge advocate, and he clerked for federal and California appellate judges. He earned degrees from Harvard, Cambridge, and Yale Law School.",
+        "filing": "Kent County official list: affidavit of incumbency, filed January 20, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+          },
+          {
+            "label": "Kent County biography",
+            "url": "https://www.kentcountymi.gov/m/directory/employee?eid=34"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Clay M. West",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Clay_M._West_(Michigan_17th_Circuit_Court,_Michigan,_candidate_2026)"
+          }
+        ]
+      }
+    ],
+    "page": 4,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 4",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "note": "County list: three incumbent 17th Circuit Court seats, vote for not more than 3. Addresses are withheld for incumbent judges.",
+    "scope": "kent"
+  },
+  {
+    "id": "race-34",
+    "section": "Judicial",
+    "title": "Judge of Probate Court - Kent - Incumbent",
+    "jurisdiction": "Michigan",
+    "term": "6 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "David M. Murkowski",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Kent County: David Murkowski is the incumbent probate judge. The county biography says he grew up in Milwaukee, graduated from Marquette University and Cooley Law School, and practiced law in Grand Rapids.",
+        "filing": "Kent County official list: affidavit of incumbency, filed January 14, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+          },
+          {
+            "label": "Kent County biography",
+            "url": "https://www.kentcountymi.gov/1432/Judges"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "David M. Murkowski",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/David_M._Murkowski"
+          }
+        ]
+      }
+    ],
+    "page": 4,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 4",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "kent"
+  },
+  {
+    "id": "race-38",
+    "section": "Judicial",
+    "title": "Judge of District Court - 63rd District - Incumbent",
+    "jurisdiction": "Michigan",
+    "term": "6 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Jeffrey J. O'Hara",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Kent County: Jeffrey O’Hara is chief judge of the 63rd District Court. He graduated from Michigan State University, earned his law degree from Cooley Law School in 1985, practiced as a trial attorney, and was elected in 2014.",
+        "filing": "Kent County official list: affidavit of incumbency, filed January 15, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+          },
+          {
+            "label": "Kent County biography",
+            "url": "https://www.kentcountymi.gov/1436/Judges"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Jeffrey J. O'Hara",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Jeffrey_J._O'Hara_(Michigan_63rd_District_Court,_Michigan,_candidate_2026)"
+          }
+        ]
+      }
+    ],
+    "page": 4,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 4",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=4"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "note": "The county list shows one incumbent for this full term. The vote-for line on that row did not extract cleanly; this guide keeps vote for 1 because only one candidate is listed. Confirm on your sample ballot.",
+    "scope": "district-63"
+  },
+  {
+    "id": "race-39",
+    "section": "Judicial",
+    "title": "Judge of District Court - 63rd District - Incumbent",
+    "jurisdiction": "Michigan",
+    "term": "Partial Term Ending 1/01/2029",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Kirsten L. Holz",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "Kent County: Kirsten Holz was appointed to the 63rd District Court by Governor Gretchen Whitmer in 2024. This race is the rest of a term ending January 1, 2029. She earned degrees from Cornell and a law degree from American University in 2007.",
+        "filing": "Kent County official list: affidavit of incumbency, filed January 8, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+          },
+          {
+            "label": "Kent County biography",
+            "url": "https://www.kentcountymi.gov/m/directory/employee?eid=575"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Kirsten L. Holz",
+            "site": "Ballotpedia",
+            "url": "https://ballotpedia.org/Kirsten_L._Holz_(Michigan_63rd_District_Court,_Michigan,_candidate_2026)"
+          }
+        ]
+      }
+    ],
+    "page": 5,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 5",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Ballotpedia: Michigan elections, 2026",
+        "url": "https://ballotpedia.org/Michigan_elections,_2026"
+      }
+    ],
+    "scope": "district-63"
+  },
+  {
+    "id": "race-40",
+    "section": "Community college",
+    "title": "Board of Trustees Member Grand Rapids Community College",
+    "jurisdiction": "Grand Rapids Community College",
+    "term": "6 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Jamie Gordon",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Ottawa News Network: Jamie Gordon was appointed to the GRCC board in May 2026 for a term ending December 31, 2026, and is running for a full term. She is executive director of human resources for Kentwood Public Schools and previously spent 23 years at Grand Rapids Public Schools.",
+        "filing": "Kent County official list: filing fee, filed May 11, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+          },
+          {
+            "label": "Ottawa News Network",
+            "url": "https://www.ottawanewsnetwork.org/heres-everyone-running-for-office-in-ottawa-county-for-the-2026-november-general-election/"
+          },
+          {
+            "label": "GRCC directory",
+            "url": "https://www.grcc.edu/faculty-staff/directory/jamie-gordon"
+          }
+        ]
+      },
+      {
+        "name": "Brandy Lovelady Mitchell",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Ottawa News Network: Brandy Lovelady Mitchell was elected to the GRCC board in 2020 for a term ending December 31, 2026. She is a deputy superintendent at Grand Rapids Public Schools and earlier worked at what is now Network 180.",
+        "filing": "Kent County official list: filing fee, filed January 15, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+          },
+          {
+            "label": "Ottawa News Network",
+            "url": "https://www.ottawanewsnetwork.org/heres-everyone-running-for-office-in-ottawa-county-for-the-2026-november-general-election/"
+          },
+          {
+            "label": "GRCC directory",
+            "url": "https://www.grcc.edu/faculty-staff/directory/brandy-lovelady-mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Tim Russ",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Ottawa News Network: Tim Russ is a Michigan Education Association representative and community organizer, and second vice chair of the Grand Rapids Township Democrats. He is not described as a current trustee.",
+        "filing": "Kent County official list: filing fee, filed July 21, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+          },
+          {
+            "label": "Ottawa News Network",
+            "url": "https://www.ottawanewsnetwork.org/heres-everyone-running-for-office-in-ottawa-county-for-the-2026-november-general-election/"
+          }
+        ]
+      }
+    ],
+    "page": 5,
+    "type": "Office",
+    "note": "County list: Grand Rapids Community College trustees, 6-year term, vote for not more than 2. Gaines Charter Township Precinct 7 is in the Grand Rapids Community College district, so this race is on this ballot. Personal emails and street addresses from the filing list are omitted.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 5",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      }
+    ],
+    "scope": "grcc"
+  },
+  {
+    "id": "race-41",
+    "section": "Community college",
+    "title": "Board of Trustees Member Grand Rapids Community College",
+    "jurisdiction": "Grand Rapids Community College",
+    "term": "Partial Term Ending 12/31/2030",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Adriana Almanza",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Ottawa News Network: Adriana Almanza is the only candidate listed for the partial term ending December 31, 2030. She has worked about 16 years in education and human resources, including about 12 years in K–12 and higher education. Little else was published.",
+        "filing": "Kent County official list: filing fee, filed July 15, 2026.",
+        "links": [
+          {
+            "label": "Kent County official list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+          },
+          {
+            "label": "Ottawa News Network",
+            "url": "https://www.ottawanewsnetwork.org/heres-everyone-running-for-office-in-ottawa-county-for-the-2026-november-general-election/"
+          }
+        ]
+      }
+    ],
+    "page": 5,
+    "type": "Office",
+    "note": "County list: one partial term ending December 31, 2030, vote for not more than 1.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 5",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=5"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      }
+    ],
+    "scope": "grcc"
+  },
+  {
+    "id": "race-71",
+    "section": "School boards",
+    "title": "Board Member Byron Center Public Schools",
+    "jurisdiction": "Byron Center Public Schools",
+    "term": "4 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Jeff Black",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Byron Center Public Schools questionnaire: Jeff Black is an estate-planning, probate, and business attorney at Mika Meyers and a Byron Center parent. His firm biography says he previously clerked for the Kent County Circuit Court. He is not on the current board roster.",
+        "filing": "Kent County official list: filing fee, filed July 21, 2026.",
+        "links": [
+          {
+            "label": "District candidate guide (PDF)",
+            "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+          },
+          {
+            "label": "The Gist: this race",
+            "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+          },
+          {
+            "label": "Mika Meyers biography",
+            "url": "https://www.mikameyers.com/attorneys/jeffrey-m-black/"
+          }
+        ]
+      },
+      {
+        "name": "Shannon Smith",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Byron Center Public Schools questionnaire: Shannon Smith is a licensed professional counselor and certified rehabilitation counselor who owns a counseling practice. She is a Byron Center parent and is not on the current board roster.",
+        "filing": "Kent County official list: filing fee, filed July 15, 2026.",
+        "links": [
+          {
+            "label": "District candidate guide (PDF)",
+            "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+          },
+          {
+            "label": "The Gist: this race",
+            "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+          }
+        ]
+      },
+      {
+        "name": "Amber Swift",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "The district roster lists Amber Swift as board vice president. In the district questionnaire she describes herself as a former business owner who worked as a chief financial officer and human-resources manager, and as a parent seeking another term.",
+        "filing": "Kent County official list: filing fee, filed June 25, 2026.",
+        "links": [
+          {
+            "label": "District candidate guide (PDF)",
+            "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+          },
+          {
+            "label": "The Gist: this race",
+            "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+          },
+          {
+            "label": "Community Q&A",
+            "url": "https://wearebc.substack.com/p/your-vote-your-schools-board-of-education"
+          }
+        ]
+      },
+      {
+        "name": "Thalia Tilma",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "The district roster lists Thalia Tilma as board secretary. In the questionnaire she says she is a current member, that her husband’s family has long roots in Byron Center, and that her priorities include academics, parent involvement, and spending.",
+        "filing": "Kent County official list: filing fee, filed July 2, 2026.",
+        "links": [
+          {
+            "label": "District candidate guide (PDF)",
+            "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+          },
+          {
+            "label": "The Gist: this race",
+            "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Upchurch",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "note": "Byron Center Public Schools questionnaire: Ashley Upchurch works in marketing and is a Byron Center parent of elementary students. She is not on the current board roster. She says her priorities are family-school partnerships, keeping educators, and preparing students for different paths after graduation.",
+        "filing": "Kent County official list: filing fee, filed July 20, 2026.",
+        "links": [
+          {
+            "label": "District candidate guide (PDF)",
+            "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+          },
+          {
+            "label": "The Gist: this race",
+            "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+          }
+        ]
+      },
+      {
+        "name": "Brad Wiechertjes",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "note": "The district roster lists Brad Wiechertjes as treasurer. In the questionnaire he says his family has lived in Byron Center for more than 20 years and that he directs advancement for a nonprofit serving Deaf communities. His wife is a special-education teacher.",
+        "filing": "Kent County official list: filing fee, filed July 2, 2026.",
+        "links": [
+          {
+            "label": "District candidate guide (PDF)",
+            "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+          },
+          {
+            "label": "The Gist: this race",
+            "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+          },
+          {
+            "label": "Community Q&A",
+            "url": "https://wearebc.substack.com/p/your-vote-your-schools-board-of-education"
+          }
+        ]
+      }
+    ],
+    "page": 7,
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 7",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=7"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "BCPS Fall 2026 BConnection candidate guide (PDF)",
+        "url": "https://bcpsk12-cdn.fxbrt.com/downloads/communications/bconnection_fall_2026.pdf"
+      },
+      {
+        "label": "The Gist: Byron Center school board",
+        "url": "https://thegist.vote/race/2026-general-mi/mi-byron-center-public-schools-board-4-year-term"
+      }
+    ],
+    "note": "Byron Center Public Schools’ Fall 2026 BConnection says three seats are on the November 3 ballot, and The Gist says sample ballots print a 4-year term and vote for 3. The Gist also says the county clerk’s list heading for this race says “6 Year Term.” A text extraction of the county list places “Vote for not more than 1” on the first candidate row and labels the term 4 years. This guide keeps vote for 3 and a 4-year term, and you should confirm both on your sample ballot. The district roster in that newsletter lists Amber Swift as vice president, Thalia Tilma as secretary, and Brad Wiechertjes as treasurer.",
+    "scope": "school-byron"
+  },
+  {
+    "id": "proposal-1",
+    "section": "Ballot proposals",
+    "title": "Constitutional convention",
+    "jurisdiction": "Michigan",
+    "term": "See official wording",
+    "voteLimit": 1,
+    "type": "Proposal",
+    "page": 11,
+    "officialText": "Shall a convention of elected delegates be convened in 2027 to draft a general revision of the State Constitution for presentation to the state’s voters for their approval or rejection?",
+    "candidates": [],
+    "plainEnglish": [
+      "This asks whether Michigan should hold a constitutional convention in 2027.",
+      "If voters say yes, Michigan would elect delegates to write a full revision of the state constitution. That draft would then be put on a later statewide ballot, and voters would decide whether to accept or reject it.",
+      "A yes vote calls the convention. A no vote means the convention is not held, and the current constitution stays in place unless it is changed some other way."
+    ],
+    "summary": "This asks whether Michigan should call a convention in 2027 to draft a revised state constitution. Voters would later accept or reject that draft. It is a yes-or-no question. Ballotpedia lists it as Proposal 1, a constitutional-convention question automatically referred to the ballot.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 11",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=11"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Michigan Bureau of Elections: November 2026 ballot questions (PDF)",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Home/Documents/2026-November-ballot-questions.pdf"
+      },
+      {
+        "label": "Ballotpedia: Michigan 2026 ballot measures",
+        "url": "https://ballotpedia.org/Michigan_2026_ballot_measures"
+      }
+    ],
+    "taxImpact": {
+      "headline": "No change to your property tax",
+      "lines": [
+        "This question does not levy a millage."
+      ]
+    },
+    "scope": "statewide"
+  },
+  {
+    "id": "proposal-2",
+    "section": "Ballot proposals",
+    "title": "Campaign finance",
+    "jurisdiction": "Michigan",
+    "term": "See official wording",
+    "voteLimit": 1,
+    "type": "Proposal",
+    "page": 11,
+    "officialText": "A Proposed Initiated Law to Prohibit Campaign Contributions for Certain Regulated Utilites and Government Contractors and Apply Campaign Finance Laws and Regulations to Additional Types of Political Communications The proposal would: • Prohibit regulated electric and gas utilities, contractors with over $250,000 annually in government contracts, and people and organizations with substantial connections to these utilities/contractors from making direct or indirect campaign contributions to those who run for or hold offices that impact them. • Expand laws regulating spending on political communications, including those requiring disclosing donor information, to apply to communications clearly identifying candidates or ballot questions, even if they do not expressly advocate voting for/against them. • Expressly apply the law requiring disclosure of who paid for political communications to internet political communications. Should this proposal be adopted?",
+    "candidates": [],
+    "plainEnglish": [
+      "This asks voters to adopt a state law about campaign contributions and political messages.",
+      "Regulated electric and gas utilities could not give campaign money to people running for, or holding, offices that affect those utilities. The same ban would cover contractors who receive more than $250,000 a year in government contracts, and people or organizations with substantial ties to those utilities or contractors. Both direct and indirect contributions would be banned.",
+      "Rules that already cover campaign spending and donor disclosure would also cover messages that clearly name a candidate or a ballot question, even when the message does not explicitly say to vote for or against them.",
+      "Those disclosure rules would expressly cover political messages on the internet, including a requirement to say who paid for them.",
+      "A yes vote adopts this law. A no vote leaves current law as it is."
+    ],
+    "summary": "This initiated law would prohibit regulated electric and gas utilities, government contractors with more than $250,000 a year in government contracts, and people or organizations with substantial connections to them from making direct or indirect campaign contributions to candidates for offices that affect them. It would also extend donor-disclosure rules to more political communications, including communications that identify a candidate or ballot question without expressly advocating a vote, and to internet political communications. A yes vote adopts the law. The county list spells “utilities” as “Utilites”; that spelling is left as printed.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 11",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=11"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "Michigan Bureau of Elections: November 2026 ballot questions (PDF)",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Home/Documents/2026-November-ballot-questions.pdf"
+      },
+      {
+        "label": "Ballotpedia: Proposal 2, campaign finance",
+        "url": "https://ballotpedia.org/Michigan_Campaign_Finance_Regulations_Measure_(2026)"
+      }
+    ],
+    "taxImpact": {
+      "headline": "No change to your property tax",
+      "lines": [
+        "This question does not levy a millage."
+      ]
+    },
+    "scope": "statewide"
+  },
+  {
+    "id": "proposal-3",
+    "section": "Ballot proposals",
+    "title": "Corrections and detention millage",
+    "jurisdiction": "Kent County",
+    "term": "See official wording",
+    "voteLimit": 1,
+    "type": "Proposal",
+    "page": 11,
+    "officialText": "Shall Kent County levy 0.98 mill ($0.98 per $1,000 of taxable value) on the taxable value of all real and personal property subject to taxation for the period 2026 through 2045 inclusive to expand, remodel, equip, operate, maintain, and defray debt service for Kent County Correction and Detention Facilities? This millage is a renewal of the previously authorized millage which expires following the 2029 levy as well as an authorization to increase the existing millage by 0.2468 mill ($0.2468 per $1,000 of taxable value). The amount raised by the proposed levy in the first calendar year is estimated at $37,326,699.00. To the extent permitted by law, a portion of the revenues from this millage will be captured by local authorities for authorized purposes. The total amount of captured tax increment revenues from such millage in the first calendar year of the levy is estimated at $1,497,204.07. The authorities in Kent County capturing a portion of the revenues from this levy include the following: the Downtown Development Authorities for the Cities of Cedar Springs, Grandville, Lowell, Rockford, Walker, the Charter Township of Cascade, and the Townships of Bowne, Sparta, and Tyrone; the Brownfield Redevelopment Authorities of Grand Rapids, Grandville, Kentwood, Rockford, Walker, and Wyoming; and the Monroe North Tax increment Financing Authority of the City of Grand Rapids, Local Development Financing Authority of the City of Grand Rapids, and the Corridor Improvement Authority of the City of Grand Rapids.",
+    "candidates": [],
+    "plainEnglish": [
+      "This asks Kent County voters to approve a property tax for the county’s correction and detention facilities, including the jail.",
+      "The tax would be 0.98 mill, which is $0.98 for every $1,000 of taxable value, each year from 2026 through 2045. The money would pay to expand, remodel, equip, operate, and maintain those facilities, and to pay debt for them.",
+      "This both renews and increases an existing tax. The current millage would otherwise end after the 2029 levy. This proposal renews it and raises it by 0.2468 mill, which is an extra $0.2468 per $1,000 of taxable value.",
+      "Kent County estimates the tax would raise $37,326,699 in the first year. Of that, about $1,497,204 is expected to be kept by local development authorities — such as downtown, brownfield, and corridor authorities in listed cities and townships — for their own authorized projects. The official wording names those authorities."
+    ],
+    "summary": "Kent County asks voters to levy 0.98 mill, which is $0.98 per $1,000 of taxable value, from 2026 through 2045 for correction and detention facilities. The county’s 2026 certified rate is 0.7332 mill and continues through the 2029 levy if this fails. The ballot increase is 0.2468 mill. The dollar lines above follow the taxable value entered on this page. The county estimates $37,326,699 in the first calendar year, and about $1,497,204.07 captured by the tax-increment authorities named in the ballot wording.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 11",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=11"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "WGVU Vote of Confidence: county proposal text (PDF)",
+        "url": "https://dc79r36mj3c9w.cloudfront.net/prod/filer_public/wgvu-bento-live-pbs/Vote%20of%20Confidence/County%20Proposals/General%20Election/53be3b8b87_Kent%20County%202026%20General%20Election%20Proposals.pdf"
+      },
+      {
+        "label": "Kent County: 2026 corrections millage rates",
+        "url": "https://www.kentcountymi.gov/2012/2026-Corrections-and-Detention-Millage"
+      },
+      {
+        "label": "Michigan Treasury: 2026 inflation rate multiplier (PDF)",
+        "url": "https://www.michigan.gov/treasury/-/media/Project/Websites/treasury/STC/Bulletins/2025/Bulletin-14-of-2025--Inflation-Rate-Multiplier-for-2026.pdf"
+      }
+    ],
+    "taxImpact": {
+      "kicker": "From your taxable value",
+      "detail": [
+        "These amounts use the taxable value you enter. Later years move as taxable value changes, and Headlee can reduce the rate."
+      ]
+    },
+    "levy": {
+      "kind": "increase",
+      "name": "Corrections and detention",
+      "proposedMills": 0.98,
+      "baselineMills": 0.7332,
+      "proposedSpan": "each year from 2026 through 2045",
+      "baselineSpan": "the 2026 certified rate, through the 2029 levy"
+    },
+    "scope": "kent"
+  },
+  {
+    "id": "proposal-4",
+    "section": "Ballot proposals",
+    "title": "Zoo and museum millage",
+    "jurisdiction": "Kent County",
+    "term": "See official wording",
+    "voteLimit": 1,
+    "type": "Proposal",
+    "page": 11,
+    "officialText": "For the purpose of renewing dedicated funding for the care of animals and artifacts, repair and improvement of exhibits, and providing enhanced educational programs, shall the total limitation on the amount of taxes which may be assessed against all taxable property in Kent County be renewed at 0.4086 mill ($0.4086 on each $1,000 of taxable value) on all Real and Personal Property subject to taxation for the period 2026 through 2035, inclusive, which would be allocated to the John Ball Zoo and the Grand Rapids Public Museum? The amount raised by the levy in the first year is estimated at $15,562,948.00. To the extent permitted by law, a portion of the revenues from this millage will be captured by local authorities for authorized purposes. The total amount of captured tax increment revenues from such millage in the first calendar year of the levy is estimated at $399,110.86. The tax increment authorities in Kent County, capturing a portion of this tax levy, include the following: the Downtown Development Authorities for the Cities of Cedar Springs, Grandville, Lowell, Rockford, and Walker, the Charter Township of Cascade, the Townships of Bowne, Sparta, and Tyrone; the Brownfield Redevelopment Authorities of Cascade Township, Cedar Springs, Grand Rapids, Grandville, Kent County, Kentwood, Plainfield Charter Township, Rockford, Walker, and Wyoming; the Monroe North Tax increment Financing Authority; and Corridor Improvement Authority of the City of Grand Rapids.",
+    "candidates": [],
+    "plainEnglish": [
+      "This asks Kent County voters to renew a property tax for John Ball Zoo and the Grand Rapids Public Museum.",
+      "The rate would stay 0.4086 mill, which is $0.4086 for every $1,000 of taxable value, each year from 2026 through 2035.",
+      "The money is dedicated to caring for animals and museum artifacts, repairing and improving exhibits, and offering more educational programs.",
+      "Kent County estimates the tax would raise $15,562,948 in the first year. Of that, about $399,111 is expected to be kept by local development authorities — such as downtown, brownfield, and corridor authorities in listed cities and townships — for their own authorized projects. The official wording names those authorities."
+    ],
+    "summary": "Kent County asks voters to renew 0.4086 mill, which is $0.4086 per $1,000 of taxable value, from 2026 through 2035 for the John Ball Zoo and the Grand Rapids Public Museum. The 2025 rate was 0.4134 mill. MLive reported on May 12, 2026 that the current millage expires at the end of 2026. The dollar lines above follow the taxable value entered on this page. The county estimates $15,562,948 in the first year, and about $399,110.86 captured by the tax-increment authorities named in the ballot wording.",
+    "sources": [
+      {
+        "label": "Kent County official list, p. 11",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF#page=11"
+      },
+      {
+        "label": "Find your sample ballot",
+        "url": "https://mvic.sos.state.mi.us/"
+      },
+      {
+        "label": "WGVU Vote of Confidence: county proposal text (PDF)",
+        "url": "https://dc79r36mj3c9w.cloudfront.net/prod/filer_public/wgvu-bento-live-pbs/Vote%20of%20Confidence/County%20Proposals/General%20Election/53be3b8b87_Kent%20County%202026%20General%20Election%20Proposals.pdf"
+      },
+      {
+        "label": "Kent County: zoo and museum millage",
+        "url": "https://www.kentcountymi.gov/1695/Zoo-Museum-Millage"
+      },
+      {
+        "label": "MLive: renewal and 2026 expiration",
+        "url": "https://www.mlive.com/news/grand-rapids/2026/05/kent-county-panel-backs-zoo-museum-millage-renewal-that-shifts-tax-dollars-toward-zoo.html"
+      }
+    ],
+    "taxImpact": {
+      "kicker": "From your taxable value",
+      "detail": [
+        "A yes vote continues the zoo and museum tax through 2035 at 0.4086 mill. The 2025 rate was 0.4134 mill. A no vote lets the current millage end after 2026."
+      ]
+    },
+    "levy": {
+      "kind": "renewal",
+      "name": "Zoo and museum",
+      "proposedMills": 0.4086,
+      "baselineMills": 0.4134,
+      "proposedSpan": "each year from 2026 through 2035",
+      "baselineSpan": "the 2025 rate"
+    },
+    "scope": "kent"
+  }
+]
