@@ -869,6 +869,108 @@
     "scope": "senate-20"
   },
   {
+    "id": "race-97",
+    "section": "Legislature",
+    "title": "State Senator - 29th District",
+    "jurisdiction": "29th District",
+    "term": "4 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Abbie Groff-Blaszak",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Brady A. Middleton",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: Senate District 29",
+        "url": "https://ballotpedia.org/Michigan_State_Senate_District_29"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "senate-29"
+  },
+  {
+    "id": "race-98",
+    "section": "Legislature",
+    "title": "State Senator - 30th District",
+    "jurisdiction": "30th District",
+    "term": "4 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Carol Glanville",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Mark E. Huizenga",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: Senate District 30",
+        "url": "https://ballotpedia.org/Michigan_State_Senate_District_30"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "senate-30"
+  },
+  {
     "id": "race-13",
     "section": "Legislature",
     "title": "State Representative - 79th District",
@@ -960,6 +1062,261 @@
     ],
     "note": "The county list says vote for not more than 1. An earlier edition of this guide left the vote limit and both parties blank.",
     "scope": "house-79"
+  },
+  {
+    "id": "race-75",
+    "section": "Legislature",
+    "title": "State Representative - 80th District",
+    "jurisdiction": "80th District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Lily Cheng-Schulting",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Doug Lee",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: House District 80",
+        "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_80"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "house-80"
+  },
+  {
+    "id": "race-76",
+    "section": "Legislature",
+    "title": "State Representative - 81st District",
+    "jurisdiction": "81st District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Stephen Wooden",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Holly DeBoer",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: House District 81",
+        "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_81"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "house-81"
+  },
+  {
+    "id": "race-77",
+    "section": "Legislature",
+    "title": "State Representative - 82nd District",
+    "jurisdiction": "82nd District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Kristian C. Grant",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Ryan Malinoski",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: House District 82",
+        "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_82"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "house-82"
+  },
+  {
+    "id": "race-78",
+    "section": "Legislature",
+    "title": "State Representative - 83rd District",
+    "jurisdiction": "83rd District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "John Fitzgerald",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Cindy Ramirez",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: House District 83",
+        "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_83"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "house-83"
+  },
+  {
+    "id": "race-79",
+    "section": "Legislature",
+    "title": "State Representative - 84th District",
+    "jurisdiction": "84th District",
+    "term": "2 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Khristian Silvis",
+        "party": "Democratic",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Drew Jake Robbins",
+        "party": "Republican",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      },
+      {
+        "label": "Ballotpedia: House District 84",
+        "url": "https://ballotpedia.org/Michigan_House_of_Representatives_District_84"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "house-84"
   },
   {
     "id": "race-22",
@@ -2526,6 +2883,123 @@
     "scope": "district-63"
   },
   {
+    "id": "race-72",
+    "section": "Judicial",
+    "title": "Judge of District Court - 61st District - Incumbent",
+    "jurisdiction": "61st District",
+    "term": "6 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Kellen A. Dotson",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Angela T. Ross",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "district-61"
+  },
+  {
+    "id": "race-73",
+    "section": "Judicial",
+    "title": "Judge of District Court - 62A District - Incumbent",
+    "jurisdiction": "62A District",
+    "term": "6 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Pablo Cortes",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "district-62a"
+  },
+  {
+    "id": "race-74",
+    "section": "Judicial",
+    "title": "Judge of District Court - 62B District - Incumbent",
+    "jurisdiction": "62B District",
+    "term": "6 Year Term",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Amanda H. Sterkenburg",
+        "party": "Nonpartisan",
+        "status": "Incumbent",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "district-62b"
+  },
+  {
     "id": "race-40",
     "section": "Community college",
     "title": "Board of Trustees Member Grand Rapids Community College",
@@ -2794,6 +3268,1213 @@
     ],
     "note": "Byron Center Public Schools’ Fall 2026 BConnection says three seats are on the November 3 ballot, and The Gist says sample ballots print a 4-year term and vote for 3. The Gist also says the county clerk’s list heading for this race says “6 Year Term.” A text extraction of the county list places “Vote for not more than 1” on the first candidate row and labels the term 4 years. This guide keeps vote for 3 and a 4-year term, and you should confirm both on your sample ballot. The district roster in that newsletter lists Amber Swift as vice president, Thalia Tilma as secretary, and Brad Wiechertjes as treasurer.",
     "scope": "school-byron"
+  },
+  {
+    "id": "race-80",
+    "section": "School boards",
+    "title": "Board Member Caledonia Community Schools",
+    "jurisdiction": "Caledonia Community Schools",
+    "term": "6 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Josh Carrasquillo",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Justin Munsters",
+        "party": "Nonpartisan",
+        "status": "Qualified write-in",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election. Qualified write-in.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Michael Patterson",
+        "party": "Nonpartisan",
+        "status": "Qualified write-in",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election. Qualified write-in.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot. Qualified write-ins are included from that county list.",
+    "scope": "school-caledonia"
+  },
+  {
+    "id": "race-81",
+    "section": "School boards",
+    "title": "Board Member Comstock Park Public Schools",
+    "jurisdiction": "Comstock Park Public Schools",
+    "term": "4 Year Term",
+    "voteLimit": 4,
+    "candidates": [
+      {
+        "name": "Kevin McLellan",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "David M. O'Brien",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Roman Rodriquez",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Chad Shelner",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-comstock"
+  },
+  {
+    "id": "race-82",
+    "section": "School boards",
+    "title": "Board Member East Grand Rapids Public Schools",
+    "jurisdiction": "East Grand Rapids Public Schools",
+    "term": "4 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Paul Bratt",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "David Hall",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Richenthal",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-egr"
+  },
+  {
+    "id": "race-83",
+    "section": "School boards",
+    "title": "Board Member Forest Hills Public Schools",
+    "jurisdiction": "Forest Hills Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Claire Horlings",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Brian Spratke",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Terryn",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-forest-hills"
+  },
+  {
+    "id": "race-84",
+    "section": "School boards",
+    "title": "Board Member Godfrey-Lee Public Schools",
+    "jurisdiction": "Godfrey-Lee Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Tammy Schafer",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Cheryl L. Slaughter",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Eunice A. Villarreal",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-godfrey-lee"
+  },
+  {
+    "id": "race-85",
+    "section": "School boards",
+    "title": "Board Member Godfrey-Lee Public Schools — partial term ending 12/31/2030",
+    "jurisdiction": "Godfrey-Lee Public Schools",
+    "term": "Partial Term Ending 12/31/2030",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Amanda Salgado",
+        "party": "Nonpartisan",
+        "status": "Qualified write-in",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election. Qualified write-in.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot. Qualified write-ins are included from that county list.",
+    "scope": "school-godfrey-lee-partial"
+  },
+  {
+    "id": "race-86",
+    "section": "School boards",
+    "title": "Board Member Godwin Heights Public Schools",
+    "jurisdiction": "Godwin Heights Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Megan Erskine",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Ken Hornecker",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Allen E. Johnston",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-godwin"
+  },
+  {
+    "id": "race-87",
+    "section": "School boards",
+    "title": "Board Member Grandville Public Schools",
+    "jurisdiction": "Grandville Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Emily Berlin",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Nick Brock",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Amy Campbell",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Gregory D. Warsen",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Roger Whisman",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-grandville"
+  },
+  {
+    "id": "race-88",
+    "section": "School boards",
+    "title": "Board Member Grand Rapids Public Schools",
+    "jurisdiction": "Grand Rapids Public Schools",
+    "term": "4 Year Term",
+    "voteLimit": 5,
+    "candidates": [
+      {
+        "name": "Antoinette Chapman",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Tommy Doles",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "William Hugh Dykstra",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Amaad Hardy",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hovenkamp",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Kulas-Dominguez",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Lint",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Ismalis Nuñez",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Diana Riley",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Jose Rodriguez",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Tino Scott",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Josh Sherry",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Aarie Wade",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Diana L. Wallace",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Kimberley Williams",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-grps"
+  },
+  {
+    "id": "race-89",
+    "section": "School boards",
+    "title": "Board Member Grand Rapids Public Schools — partial term ending 12/31/2028",
+    "jurisdiction": "Grand Rapids Public Schools",
+    "term": "Partial Term Ending 12/31/2028",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Erika VanDyke",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-grps-partial"
+  },
+  {
+    "id": "race-90",
+    "section": "School boards",
+    "title": "Board Member Kelloggsville Public Schools",
+    "jurisdiction": "Kelloggsville Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Marie Groters",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Brittney R. Rocha",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Laura Tanis",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-kelloggsville"
+  },
+  {
+    "id": "race-91",
+    "section": "School boards",
+    "title": "Board Member Kelloggsville Public Schools — partial term ending 12/31/2030",
+    "jurisdiction": "Kelloggsville Public Schools",
+    "term": "Partial Term Ending 12/31/2030",
+    "voteLimit": 1,
+    "candidates": [
+      {
+        "name": "Saul Ivan Flores-Garcia",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-kelloggsville-partial"
+  },
+  {
+    "id": "race-92",
+    "section": "School boards",
+    "title": "Board Member Kenowa Hills Public Schools",
+    "jurisdiction": "Kenowa Hills Public Schools",
+    "term": "4 Year Term",
+    "voteLimit": 4,
+    "candidates": [
+      {
+        "name": "Tracey Hart",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Don Munn",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Roberts",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Eric John Roberts",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Shannon Robertson",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Angela Schultz",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-kenowa"
+  },
+  {
+    "id": "race-93",
+    "section": "School boards",
+    "title": "Board Member Kentwood Public Schools",
+    "jurisdiction": "Kentwood Public Schools",
+    "term": "4 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Pete Battey",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Sylvia A. James",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Kim Taboada-Arzate",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-kentwood"
+  },
+  {
+    "id": "race-94",
+    "section": "School boards",
+    "title": "Board Member Northview Public Schools",
+    "jurisdiction": "Northview Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 2,
+    "candidates": [
+      {
+        "name": "Jake Conway",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Valerie Endres",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Matthew J. Nibbelink",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "William Wiarda",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-northview"
+  },
+  {
+    "id": "race-95",
+    "section": "School boards",
+    "title": "Board Member Wayland Union Schools",
+    "jurisdiction": "Wayland Union Schools",
+    "term": "4 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Aubrey Chubb",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Brad Dorland",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Koon",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Sherry Lynn Miklusicak",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Norman L. Taylor",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Pete Zondervan",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-wayland"
+  },
+  {
+    "id": "race-96",
+    "section": "School boards",
+    "title": "Board Member Wyoming Public Schools",
+    "jurisdiction": "Wyoming Public Schools",
+    "term": "6 Year Term",
+    "voteLimit": 3,
+    "candidates": [
+      {
+        "name": "Danielle Burzynski",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Theresa Lantz",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Manley",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      },
+      {
+        "name": "Craig P. Popma",
+        "party": "Nonpartisan",
+        "status": "Ballot-listed",
+        "filing": "Kent County official candidate list for the November 3, 2026 general election.",
+        "links": [
+          {
+            "label": "Kent County official candidate list",
+            "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+          }
+        ]
+      }
+    ],
+    "type": "Office",
+    "sources": [
+      {
+        "label": "Kent County official candidate list",
+        "url": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+      },
+      {
+        "label": "Find your precinct and polling place",
+        "url": "https://mvic.sos.state.mi.us/Voter/"
+      }
+    ],
+    "note": "Candidates and the vote limit are the ones loaded for this contest on the Kent County November 3, 2026 ballot.",
+    "scope": "school-wyoming"
   },
   {
     "id": "proposal-1",

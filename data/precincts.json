@@ -12,9 +12,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron"
     ],
-    "school": "Not on this guide yet",
+    "school": "Byron Center Public Schools",
     "districts": [
       [
         "County",
@@ -58,15 +61,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Byron Center Public Schools"
       ]
     ]
   },
@@ -83,9 +86,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron"
     ],
-    "school": "Not on this guide yet",
+    "school": "Byron Center Public Schools",
     "districts": [
       [
         "County",
@@ -129,15 +135,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Byron Center Public Schools"
       ]
     ]
   },
@@ -154,9 +160,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-83",
+      "district-63",
+      "school-byron",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -200,16 +210,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Byron Center Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -225,9 +238,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -271,16 +288,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Byron Center Public Schools and Grandville Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -296,9 +316,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron",
+      "school-wayland"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Wayland Union Schools",
     "districts": [
       [
         "County",
@@ -342,16 +366,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Wayland Union Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Byron Center Public Schools and Wayland Union Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -367,9 +394,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron"
     ],
-    "school": "Not on this guide yet",
+    "school": "Byron Center Public Schools",
     "districts": [
       [
         "County",
@@ -413,15 +443,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Byron Center Public Schools"
       ]
     ]
   },
@@ -438,9 +468,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron"
     ],
-    "school": "Not on this guide yet",
+    "school": "Byron Center Public Schools",
     "districts": [
       [
         "County",
@@ -484,15 +517,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Byron Center Public Schools"
       ]
     ]
   },
@@ -509,9 +542,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron"
     ],
-    "school": "Not on this guide yet",
+    "school": "Byron Center Public Schools",
     "districts": [
       [
         "County",
@@ -555,15 +591,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Byron Center Public Schools"
       ]
     ]
   },
@@ -580,9 +616,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-80",
+      "district-63",
+      "school-egr"
     ],
-    "school": "Not on this guide yet",
+    "school": "East Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -626,15 +665,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "East Grand Rapids Public Schools"
       ]
     ]
   },
@@ -651,9 +690,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-80",
+      "district-63",
+      "school-egr"
     ],
-    "school": "Not on this guide yet",
+    "school": "East Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -697,15 +739,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "East Grand Rapids Public Schools"
       ]
     ]
   },
@@ -722,9 +764,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-80",
+      "district-63",
+      "school-egr"
     ],
-    "school": "Not on this guide yet",
+    "school": "East Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -768,15 +813,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "East Grand Rapids Public Schools"
       ]
     ]
   },
@@ -793,9 +838,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-caledonia"
     ],
-    "school": "Not on this guide yet",
+    "school": "Caledonia Community Schools",
     "districts": [
       [
         "County",
@@ -839,15 +887,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Caledonia Community Schools"
       ]
     ]
   },
@@ -864,9 +912,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -910,15 +961,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -935,9 +986,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -981,16 +1036,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Byron Center Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -1006,9 +1064,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -1052,15 +1113,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -1077,9 +1138,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -1123,15 +1187,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -1148,9 +1212,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-byron",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -1194,16 +1262,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Byron Center Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -1219,9 +1290,9 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63",
       "senate-20",
       "house-79",
+      "district-63",
       "school-byron"
     ],
     "school": "Byron Center Public Schools",
@@ -1309,9 +1380,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-caledonia"
     ],
-    "school": "Not on this guide yet",
+    "school": "Caledonia Community Schools",
     "districts": [
       [
         "County",
@@ -1355,15 +1429,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Caledonia Community Schools"
       ]
     ]
   },
@@ -1380,9 +1454,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-20",
+      "house-79",
+      "district-63",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -1426,15 +1503,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "20th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -1452,9 +1529,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-81",
+      "district-63",
+      "school-forest-hills"
     ],
-    "school": "Not on this guide yet",
+    "school": "Forest Hills Public Schools",
     "districts": [
       [
         "County",
@@ -1498,15 +1578,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Forest Hills Public Schools"
       ]
     ]
   },
@@ -1524,9 +1604,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-81",
+      "district-63",
+      "school-forest-hills"
     ],
-    "school": "Not on this guide yet",
+    "school": "Forest Hills Public Schools",
     "districts": [
       [
         "County",
@@ -1570,15 +1653,15 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Forest Hills Public Schools"
       ]
     ]
   },
@@ -1596,9 +1679,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-80",
+      "district-63",
+      "school-egr",
+      "school-forest-hills"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: East Grand Rapids Public Schools and Forest Hills Public Schools",
     "districts": [
       [
         "County",
@@ -1642,16 +1729,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: East Grand Rapids Public Schools and Forest Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between East Grand Rapids Public Schools and Forest Hills Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -1668,9 +1758,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-81",
+      "district-63",
+      "school-forest-hills",
+      "school-northview"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Forest Hills Public Schools and Northview Public Schools",
     "districts": [
       [
         "County",
@@ -1714,16 +1808,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Forest Hills Public Schools and Northview Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Forest Hills Public Schools and Northview Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -1740,9 +1837,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-80",
+      "house-81",
+      "district-63",
+      "school-forest-hills"
     ],
-    "school": "Not on this guide yet",
+    "school": "Forest Hills Public Schools",
     "districts": [
       [
         "County",
@@ -1786,16 +1887,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District and 81st District (split precinct)"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Forest Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between the 80th District and 81st District for State House. Both races are listed. Only one is on your official ballot. Confirm your address at the Michigan Voter Information Center."
     ]
   },
   {
@@ -1812,9 +1916,13 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-81",
+      "district-63",
+      "school-forest-hills",
+      "school-northview"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Forest Hills Public Schools and Northview Public Schools",
     "districts": [
       [
         "County",
@@ -1858,16 +1966,19 @@
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Forest Hills Public Schools and Northview Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Forest Hills Public Schools and Northview Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -1892,9 +2003,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -1934,19 +2050,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -1972,9 +2088,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2014,19 +2135,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2052,9 +2173,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-godwin",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Godwin Heights Public Schools and Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2094,20 +2221,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Godwin Heights Public Schools and Grand Rapids Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Godwin Heights Public Schools and Grand Rapids Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -2132,9 +2262,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2174,19 +2309,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2212,9 +2347,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2254,19 +2394,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2292,9 +2432,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2334,19 +2479,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2372,9 +2517,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2414,19 +2564,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2452,9 +2602,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2494,19 +2649,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2532,9 +2687,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2574,19 +2734,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2612,9 +2772,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2654,19 +2819,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2692,9 +2857,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2734,19 +2904,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2772,9 +2942,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2814,19 +2989,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2852,9 +3027,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2894,19 +3074,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -2932,9 +3112,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -2974,19 +3159,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3012,9 +3197,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3054,19 +3244,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3092,9 +3282,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3134,19 +3329,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3172,9 +3367,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3214,19 +3414,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3252,9 +3452,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3294,19 +3499,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3332,9 +3537,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial",
+      "school-kenowa"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grand Rapids Public Schools and Kenowa Hills Public Schools",
     "districts": [
       [
         "County",
@@ -3374,20 +3585,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grand Rapids Public Schools and Kenowa Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Grand Rapids Public Schools and Kenowa Hills Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -3412,9 +3626,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3454,19 +3673,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3492,9 +3711,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3534,19 +3758,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3572,9 +3796,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3614,19 +3843,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3652,9 +3881,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3694,19 +3928,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3732,9 +3966,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3774,19 +4013,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3812,9 +4051,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3854,19 +4098,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3892,9 +4136,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -3934,19 +4183,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -3972,9 +4221,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4014,19 +4268,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4052,9 +4306,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4094,19 +4353,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4132,9 +4391,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4174,19 +4438,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4212,9 +4476,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4254,19 +4523,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4292,9 +4561,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4334,19 +4608,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4372,9 +4646,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4414,19 +4693,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4452,9 +4731,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4494,19 +4778,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4532,9 +4816,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4574,19 +4863,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4612,9 +4901,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4654,19 +4948,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4692,9 +4986,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4734,19 +5033,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4772,9 +5071,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4814,19 +5118,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -4852,9 +5156,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-forest-hills",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Forest Hills Public Schools and Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4894,20 +5204,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Forest Hills Public Schools and Grand Rapids Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Forest Hills Public Schools and Grand Rapids Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -4932,9 +5245,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-81",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -4974,19 +5292,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "81st District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5012,9 +5330,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5054,19 +5377,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5092,9 +5415,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grand Rapids Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -5134,20 +5463,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grand Rapids Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Grand Rapids Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -5172,9 +5504,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5214,20 +5552,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District and 82nd District (split precinct)"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between the 80th District and 82nd District for State House. Both races are listed. Only one is on your official ballot. Confirm your address at the Michigan Voter Information Center."
     ]
   },
   {
@@ -5252,9 +5593,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grand Rapids Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -5294,20 +5641,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grand Rapids Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Grand Rapids Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -5332,9 +5682,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5374,19 +5729,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5412,9 +5767,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grand Rapids Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -5454,20 +5815,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grand Rapids Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Grand Rapids Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -5492,9 +5856,16 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grand Rapids Public Schools and Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -5534,20 +5905,24 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District and 82nd District (split precinct)"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grand Rapids Public Schools and Kentwood Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between the 80th District and 82nd District for State House. Both races are listed. Only one is on your official ballot. Confirm your address at the Michigan Voter Information Center.",
+      "This precinct is split between Grand Rapids Public Schools and Kentwood Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -5572,9 +5947,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5614,19 +5994,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5652,9 +6032,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5694,19 +6079,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5732,9 +6117,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5774,19 +6164,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5812,9 +6202,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-forest-hills",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Forest Hills Public Schools and Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5854,20 +6250,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Forest Hills Public Schools and Grand Rapids Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Forest Hills Public Schools and Grand Rapids Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -5892,9 +6291,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -5934,19 +6338,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -5972,9 +6376,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6014,19 +6423,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6052,9 +6461,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6094,19 +6508,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6132,9 +6546,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6174,19 +6593,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6212,9 +6631,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6254,19 +6678,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6292,9 +6716,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6334,19 +6763,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6372,9 +6801,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6414,19 +6848,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6452,9 +6886,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6494,19 +6933,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6532,9 +6971,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grand Rapids Public Schools",
     "districts": [
       [
         "County",
@@ -6574,19 +7018,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "61st District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grand Rapids Public Schools"
       ]
     ]
   },
@@ -6603,9 +7047,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-84",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -6645,20 +7091,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -6674,9 +7126,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-84",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -6716,20 +7170,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -6745,9 +7205,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-84",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -6787,20 +7249,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -6816,9 +7284,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-84",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -6858,20 +7328,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -6887,9 +7363,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-84",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -6929,20 +7407,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -6958,9 +7442,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-29",
+      "house-84",
+      "school-grandville",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grandville Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -7000,20 +7487,27 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grandville Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Grandville Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot.",
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -7030,9 +7524,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kelloggsville",
+      "school-kelloggsville-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kelloggsville Public Schools",
     "districts": [
       [
         "County",
@@ -7072,19 +7571,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kelloggsville Public Schools"
       ]
     ]
   },
@@ -7102,9 +7601,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7144,19 +7647,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7174,9 +7677,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7216,19 +7723,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7246,9 +7753,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kelloggsville",
+      "school-kelloggsville-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kelloggsville Public Schools",
     "districts": [
       [
         "County",
@@ -7288,19 +7800,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kelloggsville Public Schools"
       ]
     ]
   },
@@ -7318,9 +7830,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kelloggsville",
+      "school-kelloggsville-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kelloggsville Public Schools",
     "districts": [
       [
         "County",
@@ -7360,19 +7877,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kelloggsville Public Schools"
       ]
     ]
   },
@@ -7390,9 +7907,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7432,19 +7953,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7462,9 +7983,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7504,19 +8029,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7534,9 +8059,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7576,19 +8105,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7606,9 +8135,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7648,19 +8181,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7678,9 +8211,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7720,19 +8257,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7750,9 +8287,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7792,19 +8333,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7822,9 +8363,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7864,19 +8409,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7894,9 +8439,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -7936,19 +8485,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -7966,9 +8515,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -8008,19 +8561,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -8038,9 +8591,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -8080,19 +8637,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -8110,9 +8667,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kentwood Public Schools",
     "districts": [
       [
         "County",
@@ -8152,19 +8713,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -8182,9 +8743,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-forest-hills"
     ],
-    "school": "Not on this guide yet",
+    "school": "Forest Hills Public Schools",
     "districts": [
       [
         "County",
@@ -8224,19 +8789,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62B District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "80th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Forest Hills Public Schools"
       ]
     ]
   },
@@ -8255,9 +8820,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-84",
+      "school-comstock",
+      "school-kenowa"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Comstock Park Public Schools and Kenowa Hills Public Schools",
     "districts": [
       [
         "County",
@@ -8297,20 +8865,27 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Comstock Park Public Schools and Kenowa Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Comstock Park Public Schools and Kenowa Hills Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot.",
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -8328,9 +8903,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-84",
+      "school-kenowa"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kenowa Hills Public Schools",
     "districts": [
       [
         "County",
@@ -8370,20 +8947,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kenowa Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -8401,9 +8984,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-84",
+      "school-kenowa"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kenowa Hills Public Schools",
     "districts": [
       [
         "County",
@@ -8443,20 +9028,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kenowa Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -8474,9 +9065,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-84",
+      "school-kenowa"
     ],
-    "school": "Not on this guide yet",
+    "school": "Kenowa Hills Public Schools",
     "districts": [
       [
         "County",
@@ -8516,20 +9109,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Kenowa Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -8547,9 +9146,12 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-84",
+      "school-grandville",
+      "school-kenowa"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Grandville Public Schools and Kenowa Hills Public Schools",
     "districts": [
       [
         "County",
@@ -8589,20 +9191,27 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Grandville Public Schools and Kenowa Hills Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Grandville Public Schools and Kenowa Hills Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot.",
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -8620,9 +9229,11 @@
       "appeals-3",
       "congress-3",
       "grcc",
-      "district-63"
+      "senate-30",
+      "house-84",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -8662,20 +9273,26 @@
       ],
       [
         "District court",
-        "63rd District"
+        "59th District (no contest on this ballot)"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "84th District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "30th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "The 59th District Court serves this city. No 59th District judge is on the November 3, 2026 ballot."
+    ],
+    "explained": [
+      "district-"
     ]
   },
   {
@@ -8691,9 +9308,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-82",
+      "house-83",
+      "district-62a",
+      "school-godwin"
     ],
-    "school": "Not on this guide yet",
+    "school": "Godwin Heights Public Schools",
     "districts": [
       [
         "County",
@@ -8733,20 +9355,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "82nd District and 83rd District (split precinct)"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Godwin Heights Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between the 82nd District and 83rd District for State House. Both races are listed. Only one is on your official ballot. Confirm your address at the Michigan Voter Information Center."
     ]
   },
   {
@@ -8762,9 +9387,16 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-kelloggsville",
+      "school-kelloggsville-partial",
+      "school-kentwood",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Kelloggsville Public Schools, Kentwood Public Schools, and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -8804,20 +9436,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Kelloggsville Public Schools, Kentwood Public Schools, and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Kelloggsville Public Schools, Kentwood Public Schools, and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -8833,9 +9468,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-79",
+      "house-83",
+      "district-62a",
+      "school-byron",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -8875,20 +9516,24 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "79th District and 83rd District (split precinct)"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between the 79th District and 83rd District for State House. Both races are listed. Only one is on your official ballot. Confirm your address at the Michigan Voter Information Center.",
+      "This precinct is split between Byron Center Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -8904,9 +9549,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-kelloggsville",
+      "school-kelloggsville-partial",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Kelloggsville Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -8946,20 +9597,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Kelloggsville Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Kelloggsville Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -8975,9 +9629,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-godwin",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Godwin Heights Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9017,20 +9676,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Godwin Heights Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Godwin Heights Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -9046,9 +9708,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-godwin",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Godwin Heights Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9088,20 +9755,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Godwin Heights Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Godwin Heights Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -9117,9 +9787,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-godwin",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Godwin Heights Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9159,20 +9834,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Godwin Heights Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Godwin Heights Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -9188,9 +9866,15 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-godfrey-lee",
+      "school-godfrey-lee-partial",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Godfrey-Lee Public Schools and Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9230,20 +9914,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Godfrey-Lee Public Schools and Wyoming Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Godfrey-Lee Public Schools and Wyoming Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   },
   {
@@ -9259,9 +9946,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-godfrey-lee",
+      "school-godfrey-lee-partial"
     ],
-    "school": "Not on this guide yet",
+    "school": "Godfrey-Lee Public Schools",
     "districts": [
       [
         "County",
@@ -9301,19 +9993,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Godfrey-Lee Public Schools"
       ]
     ]
   },
@@ -9330,9 +10022,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9372,19 +10068,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Wyoming Public Schools"
       ]
     ]
   },
@@ -9401,9 +10097,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9443,19 +10143,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Wyoming Public Schools"
       ]
     ]
   },
@@ -9472,9 +10172,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9514,19 +10218,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Wyoming Public Schools"
       ]
     ]
   },
@@ -9543,9 +10247,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9585,19 +10293,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Wyoming Public Schools"
       ]
     ]
   },
@@ -9614,9 +10322,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
     ],
-    "school": "Not on this guide yet",
+    "school": "Wyoming Public Schools",
     "districts": [
       [
         "County",
@@ -9656,19 +10368,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Wyoming Public Schools"
       ]
     ]
   },
@@ -9685,9 +10397,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -9727,19 +10443,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
     ]
   },
@@ -9756,9 +10472,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -9798,19 +10518,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
     ]
   },
@@ -9827,9 +10547,13 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -9869,19 +10593,19 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Grandville Public Schools"
       ]
     ]
   },
@@ -9898,9 +10622,14 @@
       "kent",
       "appeals-3",
       "congress-3",
-      "grcc"
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-byron",
+      "school-grandville"
     ],
-    "school": "Not on this guide yet",
+    "school": "Split: Byron Center Public Schools and Grandville Public Schools",
     "districts": [
       [
         "County",
@@ -9940,20 +10669,23 @@
       ],
       [
         "District court",
-        "Not on this guide yet"
+        "62A District"
       ],
       [
         "State house",
-        "Not on this guide yet"
+        "83rd District"
       ],
       [
         "State senate",
-        "Not on this guide yet"
+        "29th District"
       ],
       [
         "School",
-        "Not on this guide yet"
+        "Split: Byron Center Public Schools and Grandville Public Schools"
       ]
+    ],
+    "notices": [
+      "This precinct is split between Byron Center Public Schools and Grandville Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
     ]
   }
 ]
