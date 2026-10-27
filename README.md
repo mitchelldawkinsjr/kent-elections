@@ -6,6 +6,8 @@ This is a reference guide. It is not a ballot you can cast. Confirm the official
 
 **Live:** [https://ballot.360web.cloud](https://ballot.360web.cloud)
 
+![Using the practice ballot: enter a ZIP, mark a contest, price the millages, and review the marks](docs/use.gif)
+
 ## Run it
 
 The page is a static file. It fetches `data/ballot.json` and `data/precincts.json`, and falls back to copies embedded in `index.html` when those files are not served.
