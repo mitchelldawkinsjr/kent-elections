@@ -364,6 +364,28 @@
       line-height: 1.4;
     }
     .tax-entry-label { display: block; font-weight: 700; margin-bottom: 4px; }
+    .tax-lookup-block { margin-bottom: 8px; }
+    .tax-address-input {
+      width: 100%;
+      box-sizing: border-box;
+      font-size: 14px;
+      padding: 6px 8px;
+      border: 1.5px solid #000;
+      border-radius: 2px;
+    }
+    .tax-address-input:focus { outline: 2px solid var(--focus-ring); outline-offset: 1px; }
+    .tax-lookup {
+      display: inline-block;
+      margin-top: 6px;
+      background: #1e293b;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      padding: 6px 8px;
+      font-size: 11px;
+      font-weight: 700;
+    }
+    .tax-lookup:hover { background: #0f172a; }
     .taxable-value-input {
       width: 100%;
       box-sizing: border-box;
@@ -958,14 +980,71 @@
     }
 
     const TAX_VALUE_KEY = "precinct7-taxable-value";
+    const TAX_ADDRESS_KEY = "precinct7-tax-address";
+    const BSA_HOME = "https://bsaonline.com/Home/MunicipalityHome?uid=411";
     const DEFAULT_TAXABLE = 188049;
     let taxableValue = loadTaxableValue();
+    let taxAddress = loadTaxAddress();
 
     function loadTaxableValue() {
       const raw = localStorage.getItem(TAX_VALUE_KEY);
       if (raw == null || raw === "") return DEFAULT_TAXABLE;
       const saved = Number(raw);
       return Number.isFinite(saved) && saved >= 0 ? Math.round(saved) : DEFAULT_TAXABLE;
+    }
+
+    function loadTaxAddress() {
+      return localStorage.getItem(TAX_ADDRESS_KEY) || "";
+    }
+
+    function saveTaxAddress(value) {
+      taxAddress = String(value || "").trim();
+      if (taxAddress) localStorage.setItem(TAX_ADDRESS_KEY, taxAddress);
+      else localStorage.removeItem(TAX_ADDRESS_KEY);
+      document.querySelectorAll(".tax-address-input").forEach((input) => {
+        if (input === document.activeElement) return;
+        input.value = taxAddress;
+      });
+    }
+
+    function taxLookupUrl(address) {
+      const query = String(address || "").trim();
+      if (!query) return BSA_HOME;
+      const url = new URL("https://bsaonline.com/SiteSearch/SiteSearchResults");
+      url.searchParams.set("SearchCategory", "Address");
+      url.searchParams.set("SearchText", query);
+      url.searchParams.set("uid", "411");
+      return url.href;
+    }
+
+    function openTaxLookup(address) {
+      const query = String(address || "").trim();
+      saveTaxAddress(query);
+      window.open(taxLookupUrl(query), "_blank", "noopener,noreferrer");
+    }
+
+    function renderAddressLookup() {
+      const block = el("div", "tax-lookup-block");
+      const label = el("label", "tax-entry-label", "Street address");
+      const input = document.createElement("input");
+      input.className = "tax-address-input";
+      input.type = "text";
+      input.autocomplete = "street-address";
+      input.spellcheck = false;
+      input.placeholder = "740 100th St SE";
+      input.setAttribute("aria-label", "Street address in Gaines Charter Township");
+      input.value = taxAddress;
+      label.append(input);
+      const button = el("button", "tax-lookup", "Look up on township records");
+      button.type = "button";
+      const hint = el("p", "tax-entry-hint");
+      hint.append(
+        document.createTextNode("Opens the Gaines Charter Township property search. Copy "),
+        el("strong", "", "Taxable Value"),
+        document.createTextNode(" into the box below. Do not use Assessed Value, State Equalized Value, or a sale price. This page does not read the record.")
+      );
+      block.append(label, button, hint);
+      return block;
     }
 
     function gapPhrase(delta) {
@@ -1035,6 +1114,7 @@
     function renderTaxEntry() {
       const panel = el("div", "tax-entry");
       panel.id = "taxEntry";
+      panel.append(renderAddressLookup());
       const label = el("label", "tax-entry-label", "Home taxable value");
       label.setAttribute("for", "taxableValue");
       const input = document.createElement("input");
@@ -1437,6 +1517,7 @@
         content.append(el("p", "kicker", race.jurisdiction || "Proposal"));
         content.append(el("h3", "detail-name", race.title));
         if (race.levy) {
+          content.append(renderAddressLookup());
           const field = el("label", "tax-entry-label", "Home taxable value");
           const input = document.createElement("input");
           input.className = "taxable-value-input";
@@ -1584,6 +1665,10 @@
         if (event.target.matches('input[type="radio"], input[type="checkbox"]')) syncFromInput(race, event.target);
       });
       ballot.addEventListener("input", (event) => {
+        if (event.target.classList.contains("tax-address-input")) {
+          saveTaxAddress(event.target.value);
+          return;
+        }
         if (event.target.classList.contains("taxable-value-input")) {
           applyTaxableInput(event.target);
           return;
@@ -1605,6 +1690,12 @@
         if (taxableValue != null) event.target.value = formatGrouped(taxableValue);
       });
       ballot.addEventListener("click", (event) => {
+        const lookup = event.target.closest(".tax-lookup");
+        if (lookup) {
+          const field = lookup.parentElement.querySelector(".tax-address-input");
+          openTaxLookup(field ? field.value : "");
+          return;
+        }
         const clear = event.target.closest("[data-clear]");
         if (clear) {
           clearContest(clear.dataset.clear);
@@ -1618,6 +1709,10 @@
       });
 
       $("detailContent").addEventListener("input", (event) => {
+        if (event.target.classList.contains("tax-address-input")) {
+          saveTaxAddress(event.target.value);
+          return;
+        }
         if (event.target.classList.contains("taxable-value-input")) applyTaxableInput(event.target);
       });
       $("detailContent").addEventListener("focusout", (event) => {
@@ -1625,6 +1720,12 @@
         if (taxableValue != null) event.target.value = formatGrouped(taxableValue);
       });
       $("detailContent").addEventListener("click", (event) => {
+        const lookup = event.target.closest(".tax-lookup");
+        if (lookup) {
+          const field = lookup.parentElement.querySelector(".tax-address-input");
+          openTaxLookup(field ? field.value : "");
+          return;
+        }
         const button = event.target.closest("[data-open-candidate]");
         if (!button) return;
         detailStack.push({ type: "candidate", raceId: button.dataset.race, optionId: button.dataset.openCandidate });
