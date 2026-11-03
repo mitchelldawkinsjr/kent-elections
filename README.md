@@ -6,6 +6,8 @@ This is a reference guide. It is not a ballot you can cast. Confirm the official
 
 **Live:** [https://ballot.360web.cloud](https://ballot.360web.cloud)
 
+Production: [docs/deploy.md](docs/deploy.md).
+
 ![Using the practice ballot: enter a ZIP, mark a contest, price the millages, and review the marks](docs/use.gif)
 
 ## Run it
@@ -29,8 +31,4 @@ Marks stay in this browser under `gr-practice-ballot:<precinct id>`. Nothing is 
 
 ## Production
 
-`docker-compose.prod.yml` builds an nginx image and joins the `360ws-network` on the VPS. Nginx Proxy Manager serves it at `ballot.360web.cloud`.
-
-```bash
-docker compose -f docker-compose.prod.yml up -d --build
-```
+Push to `main` deploys to [ballot.360web.cloud](https://ballot.360web.cloud). Details: [docs/deploy.md](docs/deploy.md).
