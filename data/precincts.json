@@ -2067,690 +2067,6 @@
     ]
   },
   {
-    "id": "grand-rapids-city-ward-1-precinct-2",
-    "name": "Grand Rapids City, Ward 1, Precinct 2",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-30",
-      "house-84",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "2"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "84th District"
-      ],
-      [
-        "State senate",
-        "30th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-3",
-    "name": "Grand Rapids City, Ward 1, Precinct 3",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-82",
-      "district-61",
-      "school-godwin",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Split: Godwin Heights Public Schools and Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "3"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "82nd District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Split: Godwin Heights Public Schools and Grand Rapids Public Schools"
-      ]
-    ],
-    "notices": [
-      "This precinct is split between Godwin Heights Public Schools and Grand Rapids Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-4",
-    "name": "Grand Rapids City, Ward 1, Precinct 4",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-82",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "4"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "82nd District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-5",
-    "name": "Grand Rapids City, Ward 1, Precinct 5",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-30",
-      "house-84",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "5"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "84th District"
-      ],
-      [
-        "State senate",
-        "30th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-6",
-    "name": "Grand Rapids City, Ward 1, Precinct 6",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-82",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "6"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "82nd District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-7",
-    "name": "Grand Rapids City, Ward 1, Precinct 7",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-30",
-      "house-84",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "7"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "84th District"
-      ],
-      [
-        "State senate",
-        "30th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-8",
-    "name": "Grand Rapids City, Ward 1, Precinct 8",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-30",
-      "house-84",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "8"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "84th District"
-      ],
-      [
-        "State senate",
-        "30th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "grand-rapids-city-ward-1-precinct-9",
-    "name": "Grand Rapids City, Ward 1, Precinct 9",
-    "municipality": "Grand Rapids City",
-    "zips": [
-      "49501",
-      "49503",
-      "49504",
-      "49505",
-      "49506",
-      "49507",
-      "49508",
-      "49509",
-      "49525",
-      "49534",
-      "49546"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-30",
-      "house-84",
-      "district-61",
-      "school-grps",
-      "school-grps-partial"
-    ],
-    "school": "Grand Rapids Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Grand Rapids City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "9"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "61st District"
-      ],
-      [
-        "State house",
-        "84th District"
-      ],
-      [
-        "State senate",
-        "30th District"
-      ],
-      [
-        "School",
-        "Grand Rapids Public Schools"
-      ]
-    ]
-  },
-  {
     "id": "grand-rapids-city-ward-1-precinct-10",
     "name": "Grand Rapids City, Ward 1, Precinct 10",
     "municipality": "Grand Rapids City",
@@ -3605,6 +2921,91 @@
     ]
   },
   {
+    "id": "grand-rapids-city-ward-1-precinct-2",
+    "name": "Grand Rapids City, Ward 1, Precinct 2",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "2"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "84th District"
+      ],
+      [
+        "State senate",
+        "30th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
     "id": "grand-rapids-city-ward-1-precinct-20",
     "name": "Grand Rapids City, Ward 1, Precinct 20",
     "municipality": "Grand Rapids City",
@@ -3682,6 +3083,605 @@
       [
         "State senate",
         "29th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-3",
+    "name": "Grand Rapids City, Ward 1, Precinct 3",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-godwin",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Split: Godwin Heights Public Schools and Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "3"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "82nd District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Split: Godwin Heights Public Schools and Grand Rapids Public Schools"
+      ]
+    ],
+    "notices": [
+      "This precinct is split between Godwin Heights Public Schools and Grand Rapids Public Schools. Each school board that touches this precinct is listed. Only the district that includes your address is on your official ballot."
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-4",
+    "name": "Grand Rapids City, Ward 1, Precinct 4",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "4"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "82nd District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-5",
+    "name": "Grand Rapids City, Ward 1, Precinct 5",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "5"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "84th District"
+      ],
+      [
+        "State senate",
+        "30th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-6",
+    "name": "Grand Rapids City, Ward 1, Precinct 6",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-82",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "6"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "82nd District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-7",
+    "name": "Grand Rapids City, Ward 1, Precinct 7",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "7"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "84th District"
+      ],
+      [
+        "State senate",
+        "30th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-8",
+    "name": "Grand Rapids City, Ward 1, Precinct 8",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "8"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "84th District"
+      ],
+      [
+        "State senate",
+        "30th District"
+      ],
+      [
+        "School",
+        "Grand Rapids Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "grand-rapids-city-ward-1-precinct-9",
+    "name": "Grand Rapids City, Ward 1, Precinct 9",
+    "municipality": "Grand Rapids City",
+    "zips": [
+      "49501",
+      "49503",
+      "49504",
+      "49505",
+      "49506",
+      "49507",
+      "49508",
+      "49509",
+      "49525",
+      "49534",
+      "49546"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-30",
+      "house-84",
+      "district-61",
+      "school-grps",
+      "school-grps-partial"
+    ],
+    "school": "Grand Rapids Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Grand Rapids City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "9"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "61st District"
+      ],
+      [
+        "State house",
+        "84th District"
+      ],
+      [
+        "State senate",
+        "30th District"
       ],
       [
         "School",
@@ -7511,6 +7511,85 @@
     ]
   },
   {
+    "id": "inkster-city-ward-1-precinct-1",
+    "name": "Inkster City, Ward 1, Precinct 1",
+    "municipality": "Inkster City",
+    "zips": [
+      "48141"
+    ],
+    "scopes": [
+      "statewide",
+      "wayne",
+      "appeals-1",
+      "congress-12",
+      "senate-5",
+      "house-26",
+      "school-romulus",
+      "inkster"
+    ],
+    "school": "Romulus Community Schools",
+    "explained": [
+      "district-"
+    ],
+    "notices": [
+      "Polling place for this precinct: Floyd B. Simmons Center, 29150 Carlysle St, Inkster. No 22nd District Court judge appears on the November 3, 2026 sample ballot for this precinct."
+    ],
+    "districts": [
+      [
+        "County",
+        "Wayne County"
+      ],
+      [
+        "Jurisdiction",
+        "Inkster City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "1"
+      ],
+      [
+        "U.S. Congress",
+        "12th District"
+      ],
+      [
+        "Court of appeals",
+        "1st District"
+      ],
+      [
+        "Circuit court",
+        "3rd Circuit"
+      ],
+      [
+        "Probate court",
+        "Wayne County Probate Court"
+      ],
+      [
+        "District court",
+        "22nd District"
+      ],
+      [
+        "State house",
+        "26th District"
+      ],
+      [
+        "State senate",
+        "5th District"
+      ],
+      [
+        "School",
+        "Romulus Community Schools"
+      ],
+      [
+        "Polling place",
+        "Floyd B. Simmons Center, 29150 Carlysle St"
+      ]
+    ]
+  },
+  {
     "id": "kentwood-city-ward-1-precinct-1",
     "name": "Kentwood City, Ward 1, Precinct 1",
     "municipality": "Kentwood City",
@@ -7584,6 +7663,82 @@
       [
         "School",
         "Kelloggsville Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "kentwood-city-ward-1-precinct-17",
+    "name": "Kentwood City, Ward 1, Precinct 17",
+    "municipality": "Kentwood City",
+    "zips": [
+      "49508",
+      "49512",
+      "49548"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-80",
+      "district-62b",
+      "school-kentwood"
+    ],
+    "school": "Kentwood Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Kentwood City"
+      ],
+      [
+        "Ward",
+        "1"
+      ],
+      [
+        "Precinct",
+        "17"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "62B District"
+      ],
+      [
+        "State house",
+        "80th District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Kentwood Public Schools"
       ]
     ]
   },
@@ -8158,82 +8313,6 @@
       [
         "Precinct",
         "9"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "62B District"
-      ],
-      [
-        "State house",
-        "80th District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Kentwood Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "kentwood-city-ward-1-precinct-17",
-    "name": "Kentwood City, Ward 1, Precinct 17",
-    "municipality": "Kentwood City",
-    "zips": [
-      "49508",
-      "49512",
-      "49548"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-80",
-      "district-62b",
-      "school-kentwood"
-    ],
-    "school": "Kentwood Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Kentwood City"
-      ],
-      [
-        "Ward",
-        "1"
-      ],
-      [
-        "Precinct",
-        "17"
       ],
       [
         "U.S. Congress",
@@ -9775,6 +9854,231 @@
     ]
   },
   {
+    "id": "wyoming-city-ward-2-precinct-10",
+    "name": "Wyoming City, Ward 2, Precinct 10",
+    "municipality": "Wyoming City",
+    "zips": [
+      "49509",
+      "49519"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
+    ],
+    "school": "Wyoming Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Wyoming City"
+      ],
+      [
+        "Ward",
+        "2"
+      ],
+      [
+        "Precinct",
+        "10"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "62A District"
+      ],
+      [
+        "State house",
+        "83rd District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Wyoming Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "wyoming-city-ward-2-precinct-11",
+    "name": "Wyoming City, Ward 2, Precinct 11",
+    "municipality": "Wyoming City",
+    "zips": [
+      "49509",
+      "49519"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
+    ],
+    "school": "Wyoming Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Wyoming City"
+      ],
+      [
+        "Ward",
+        "2"
+      ],
+      [
+        "Precinct",
+        "11"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "62A District"
+      ],
+      [
+        "State house",
+        "83rd District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Wyoming Public Schools"
+      ]
+    ]
+  },
+  {
+    "id": "wyoming-city-ward-2-precinct-12",
+    "name": "Wyoming City, Ward 2, Precinct 12",
+    "municipality": "Wyoming City",
+    "zips": [
+      "49509",
+      "49519"
+    ],
+    "scopes": [
+      "statewide",
+      "kent",
+      "appeals-3",
+      "congress-3",
+      "grcc",
+      "senate-29",
+      "house-83",
+      "district-62a",
+      "school-wyoming"
+    ],
+    "school": "Wyoming Public Schools",
+    "districts": [
+      [
+        "County",
+        "Kent County"
+      ],
+      [
+        "Jurisdiction",
+        "Wyoming City"
+      ],
+      [
+        "Ward",
+        "2"
+      ],
+      [
+        "Precinct",
+        "12"
+      ],
+      [
+        "U.S. Congress",
+        "3rd District"
+      ],
+      [
+        "Community college",
+        "Grand Rapids Community College"
+      ],
+      [
+        "Court of appeals",
+        "3rd District"
+      ],
+      [
+        "Circuit court",
+        "17th Circuit"
+      ],
+      [
+        "Probate court",
+        "Kent County Probate Court"
+      ],
+      [
+        "District court",
+        "62A District"
+      ],
+      [
+        "State house",
+        "83rd District"
+      ],
+      [
+        "State senate",
+        "29th District"
+      ],
+      [
+        "School",
+        "Wyoming Public Schools"
+      ]
+    ]
+  },
+  {
     "id": "wyoming-city-ward-2-precinct-7",
     "name": "Wyoming City, Ward 2, Precinct 7",
     "municipality": "Wyoming City",
@@ -10006,231 +10310,6 @@
       [
         "School",
         "Godfrey-Lee Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "wyoming-city-ward-2-precinct-10",
-    "name": "Wyoming City, Ward 2, Precinct 10",
-    "municipality": "Wyoming City",
-    "zips": [
-      "49509",
-      "49519"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-83",
-      "district-62a",
-      "school-wyoming"
-    ],
-    "school": "Wyoming Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Wyoming City"
-      ],
-      [
-        "Ward",
-        "2"
-      ],
-      [
-        "Precinct",
-        "10"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "62A District"
-      ],
-      [
-        "State house",
-        "83rd District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Wyoming Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "wyoming-city-ward-2-precinct-11",
-    "name": "Wyoming City, Ward 2, Precinct 11",
-    "municipality": "Wyoming City",
-    "zips": [
-      "49509",
-      "49519"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-83",
-      "district-62a",
-      "school-wyoming"
-    ],
-    "school": "Wyoming Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Wyoming City"
-      ],
-      [
-        "Ward",
-        "2"
-      ],
-      [
-        "Precinct",
-        "11"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "62A District"
-      ],
-      [
-        "State house",
-        "83rd District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Wyoming Public Schools"
-      ]
-    ]
-  },
-  {
-    "id": "wyoming-city-ward-2-precinct-12",
-    "name": "Wyoming City, Ward 2, Precinct 12",
-    "municipality": "Wyoming City",
-    "zips": [
-      "49509",
-      "49519"
-    ],
-    "scopes": [
-      "statewide",
-      "kent",
-      "appeals-3",
-      "congress-3",
-      "grcc",
-      "senate-29",
-      "house-83",
-      "district-62a",
-      "school-wyoming"
-    ],
-    "school": "Wyoming Public Schools",
-    "districts": [
-      [
-        "County",
-        "Kent County"
-      ],
-      [
-        "Jurisdiction",
-        "Wyoming City"
-      ],
-      [
-        "Ward",
-        "2"
-      ],
-      [
-        "Precinct",
-        "12"
-      ],
-      [
-        "U.S. Congress",
-        "3rd District"
-      ],
-      [
-        "Community college",
-        "Grand Rapids Community College"
-      ],
-      [
-        "Court of appeals",
-        "3rd District"
-      ],
-      [
-        "Circuit court",
-        "17th Circuit"
-      ],
-      [
-        "Probate court",
-        "Kent County Probate Court"
-      ],
-      [
-        "District court",
-        "62A District"
-      ],
-      [
-        "State house",
-        "83rd District"
-      ],
-      [
-        "State senate",
-        "29th District"
-      ],
-      [
-        "School",
-        "Wyoming Public Schools"
       ]
     ]
   },
